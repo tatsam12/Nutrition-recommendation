@@ -1,0 +1,216 @@
+food_id,food_name,category,calories,protein,carbohydrates,fat,fiber,serving_size,recommended_goal,image_url
+1,Dal Bhat,Dal & Rice,350,14.0,62.0,3.5,5.0,100g,maintenance,https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Dal_bhat.jpg/640px-Dal_bhat.jpg
+2,Masoor Dal,Legumes,116,9.0,20.0,0.4,3.9,100g,weight_loss,https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Red_lentils.jpg/640px-Red_lentils.jpg
+3,Chana Dal,Legumes,164,8.9,27.4,2.6,7.6,100g,weight_loss,https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Channadal.jpg/640px-Channadal.jpg
+4,Mung Dal,Legumes,105,7.0,19.2,0.4,7.6,100g,weight_loss,https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Mung_beans_background.jpg/640px-Mung_beans_background.jpg
+5,Toor Dal,Legumes,118,6.8,20.6,0.4,5.0,100g,maintenance,https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Toor_dal.jpg/640px-Toor_dal.jpg
+6,Black Dal (Kali Dal),Legumes,127,9.0,21.6,0.8,5.3,100g,muscle_gain,https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Black_Urad_Dal.jpg/640px-Black_Urad_Dal.jpg
+7,Kidney Beans (Rajma),Legumes,127,8.7,22.8,0.5,6.4,100g,muscle_gain,https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Kidney_beans.jpg/640px-Kidney_beans.jpg
+8,Soybean,Legumes,173,16.6,9.9,9.0,6.0,100g,muscle_gain,https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Soybeans_dsc_series_home.jpg/640px-Soybeans_dsc_series_home.jpg
+9,Chickpeas (Chana),Legumes,164,8.9,27.4,2.6,7.6,100g,weight_loss,https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Chickpeas_%28garbanzo_beans%29.jpg/640px-Chickpeas_%28garbanzo_beans%29.jpg
+10,Steamed Rice,Rice & Grains,204,4.2,44.5,0.4,0.6,100g,maintenance,https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Banquet_rice.jpg/640px-Banquet_rice.jpg
+11,Brown Rice,Rice & Grains,216,5.0,44.8,1.8,3.5,100g,weight_loss,https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Brown_rice.jpg/640px-Brown_rice.jpg
+12,Chiura (Beaten Rice),Rice & Grains,346,6.9,76.9,1.4,1.7,100g,maintenance,https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Chiura.jpg/640px-Chiura.jpg
+13,Dhido (Buckwheat Porridge),Traditional,161,5.7,33.5,1.0,2.7,100g,weight_loss,https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dhido.jpg/640px-Dhido.jpg
+14,Roti (Wheat Flatbread),Bread & Roti,297,9.7,57.5,3.5,5.5,100g,maintenance,https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Chapati.jpg/640px-Chapati.jpg
+15,Makai Roti (Corn Flatbread),Bread & Roti,218,5.1,45.5,2.1,3.8,100g,weight_loss,https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Makki_ki_roti.jpg/640px-Makki_ki_roti.jpg
+16,Puri,Bread & Roti,349,7.0,48.0,16.0,2.0,100g,weight_gain,https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Puri_served.jpg/640px-Puri_served.jpg
+17,Sel Roti,Traditional,325,5.0,55.0,10.5,1.2,100g,maintenance,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Sel_roti.jpg/640px-Sel_roti.jpg
+18,Oatmeal (Jaulo),Rice & Grains,158,5.6,27.4,3.2,4.0,100g,weight_loss,https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Oatmeal.jpg/640px-Oatmeal.jpg
+19,Millet (Kodo),Rice & Grains,378,11.0,72.8,4.2,8.5,100g,weight_loss,https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Millet_-_Pennisetum_glaucum.jpg/640px-Millet_-_Pennisetum_glaucum.jpg
+20,Corn (Makai),Rice & Grains,96,3.4,21.0,1.5,2.4,100g,maintenance,https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Corn_kernels.jpg/640px-Corn_kernels.jpg
+21,Gundruk,Fermented Foods,30,2.5,5.5,0.5,3.0,100g,weight_loss,https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Gundruk.jpg/640px-Gundruk.jpg
+22,Spinach (Palungo),Vegetables,23,2.9,3.6,0.4,2.2,100g,weight_loss,https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Spinach_leaves.jpg/640px-Spinach_leaves.jpg
+23,Cauliflower (Kauli),Vegetables,25,1.9,5.0,0.3,2.0,100g,weight_loss,https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Cauliflower_2.jpg/640px-Cauliflower_2.jpg
+24,Cabbage (Bandakopi),Vegetables,25,1.3,5.8,0.1,2.5,100g,weight_loss,https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Cabbage_and_cross_section_on_white.jpg/640px-Cabbage_and_cross_section_on_white.jpg
+25,Potato (Aloo),Vegetables,77,2.0,17.5,0.1,2.2,100g,maintenance,https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Potato_je.jpg/640px-Potato_je.jpg
+26,Tomato,Vegetables,18,0.9,3.9,0.2,1.2,100g,weight_loss,https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Tomato_je.jpg/640px-Tomato_je.jpg
+27,Cucumber (Kakro),Vegetables,16,0.7,3.6,0.1,0.5,100g,weight_loss,https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Cucumbers_-_whole_and_slice.jpg/640px-Cucumbers_-_whole_and_slice.jpg
+28,Onion (Pyaj),Vegetables,40,1.1,9.3,0.1,1.7,100g,weight_loss,https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Onions.jpg/640px-Onions.jpg
+29,Garlic (Lasun),Vegetables,149,6.4,33.1,0.5,2.1,100g,maintenance,https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Garlic-_Allium_sativum.jpg/640px-Garlic-_Allium_sativum.jpg
+30,Ginger (Adrak),Vegetables,80,1.8,17.8,0.8,2.0,100g,maintenance,https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Ginger_roots.jpg/640px-Ginger_roots.jpg
+31,Radish (Mula),Vegetables,16,0.7,3.4,0.1,1.6,100g,weight_loss,https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Radishes.jpg/640px-Radishes.jpg
+32,Carrot (Gajar),Vegetables,41,0.9,9.6,0.2,2.8,100g,weight_loss,https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Vegetable-Carrot-Bundle-wStem.jpg/640px-Vegetable-Carrot-Bundle-wStem.jpg
+33,Broccoli,Vegetables,34,2.8,6.6,0.4,2.6,100g,weight_loss,https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Fresh_broccoli_and_cross_section.jpg/640px-Fresh_broccoli_and_cross_section.jpg
+34,Bitter Gourd (Karela),Vegetables,17,1.0,3.7,0.2,2.8,100g,weight_loss,https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Bitter_gourd.jpg/640px-Bitter_gourd.jpg
+35,Pumpkin (Farsi),Vegetables,26,1.0,6.5,0.1,0.5,100g,weight_loss,https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Pumpkin_patch.jpg/640px-Pumpkin_patch.jpg
+36,Bamboo Shoot (Tama),Vegetables,27,2.6,5.2,0.3,2.2,100g,weight_loss,https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Bamboo_shoots.jpg/640px-Bamboo_shoots.jpg
+37,Mustard Greens (Rayo Saag),Vegetables,27,2.7,4.7,0.4,3.2,100g,weight_loss,https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Mustard_leaves.jpg/640px-Mustard_leaves.jpg
+38,Fenugreek Leaves (Methi),Vegetables,49,4.4,6.0,0.9,2.7,100g,weight_loss,https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Fenugreek_Leaves.jpg/640px-Fenugreek_Leaves.jpg
+39,Green Peas (Kerau),Vegetables,81,5.4,14.5,0.4,5.1,100g,maintenance,https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Garden_peas_in_pod.jpg/640px-Garden_peas_in_pod.jpg
+40,Sweet Potato (Sakhar Kanda),Vegetables,86,1.6,20.1,0.1,3.0,100g,maintenance,https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Ipomoea_batatas_006.jpg/640px-Ipomoea_batatas_006.jpg
+41,Buffalo Meat (Buff),Meat,131,26.0,0.0,2.8,0.0,100g,muscle_gain,https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Raw_meat.jpg/640px-Raw_meat.jpg
+42,Chicken Curry,Meat,215,23.0,5.2,11.5,0.5,100g,muscle_gain,https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/A_small_cup_of_coffee.JPG/640px-A_small_cup_of_coffee.JPG
+43,Mutton Curry,Meat,258,24.5,4.0,16.2,0.0,100g,muscle_gain,https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Mutton_curry.jpg/640px-Mutton_curry.jpg
+44,Sukuti (Dried Meat),Meat,234,40.0,2.0,6.5,0.0,100g,muscle_gain,https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Sukuti.jpg/640px-Sukuti.jpg
+45,Pork (Sungur),Meat,242,27.3,0.0,14.4,0.0,100g,muscle_gain,https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Pulled_pork.jpg/640px-Pulled_pork.jpg
+46,Duck (Hans),Meat,337,19.0,0.0,28.4,0.0,100g,muscle_gain,https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Duck_meat.jpg/640px-Duck_meat.jpg
+47,Rohu Fish (Rohu Macha),Fish & Seafood,97,16.7,0.0,3.0,0.0,100g,weight_loss,https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Rohu.jpg/640px-Rohu.jpg
+48,Catfish,Fish & Seafood,116,18.0,0.0,4.3,0.0,100g,weight_loss,https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Catfish.jpg/640px-Catfish.jpg
+49,Dried Fish (Sidra),Fish & Seafood,290,55.0,0.0,6.5,0.0,100g,muscle_gain,https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Dried-salted-fish.jpg/640px-Dried-salted-fish.jpg
+50,Crab Curry,Fish & Seafood,119,16.5,3.5,4.8,0.0,100g,weight_loss,https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Crab_curry.jpg/640px-Crab_curry.jpg
+51,Boiled Egg,Eggs & Dairy,155,13.0,1.1,11.0,0.0,100g,muscle_gain,https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Boiled_eggs.jpg/640px-Boiled_eggs.jpg
+52,Egg Curry,Eggs & Dairy,185,11.8,6.2,12.5,0.8,100g,muscle_gain,https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Egg_curry.jpg/640px-Egg_curry.jpg
+53,Scrambled Eggs,Eggs & Dairy,149,10.1,1.6,11.2,0.0,100g,muscle_gain,https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Scrambled_eggs.jpg/640px-Scrambled_eggs.jpg
+54,Milk (Dudh),Eggs & Dairy,42,3.4,4.8,1.0,0.0,100g,maintenance,https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Milk_glass.jpg/640px-Milk_glass.jpg
+55,Buffalo Milk,Eggs & Dairy,97,3.8,5.0,6.9,0.0,100g,weight_gain,https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Milk_glass.jpg/640px-Milk_glass.jpg
+56,Yogurt (Dahi),Eggs & Dairy,61,3.5,4.7,3.3,0.0,100g,maintenance,https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Bowl_of_yogurt.jpg/640px-Bowl_of_yogurt.jpg
+57,Paneer (Chhurpi Fresh),Eggs & Dairy,265,18.3,3.4,20.8,0.0,100g,muscle_gain,https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Paneer.jpg/640px-Paneer.jpg
+58,Hard Chhurpi,Eggs & Dairy,380,35.0,4.2,25.0,0.0,100g,muscle_gain,https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Chhurpi.jpg/640px-Chhurpi.jpg
+59,Butter (Nauni),Eggs & Dairy,717,0.9,0.1,81.1,0.0,100g,weight_gain,https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Melted_butter.jpg/640px-Melted_butter.jpg
+60,Ghee,Eggs & Dairy,900,0.0,0.0,100.0,0.0,100g,weight_gain,https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Ghee-vs-butter.jpg/640px-Ghee-vs-butter.jpg
+61,Momo (Steamed Dumpling),Street Food,245,12.5,28.0,9.0,1.5,100g,maintenance,https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Momo_Nepal.jpg/640px-Momo_Nepal.jpg
+62,Fried Momo,Street Food,320,12.0,28.5,16.5,1.2,100g,maintenance,https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Momo_Nepal.jpg/640px-Momo_Nepal.jpg
+63,Chowmein (Stir-fried Noodles),Street Food,310,9.5,52.0,8.5,2.5,100g,maintenance,https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Chow_mein.jpg/640px-Chow_mein.jpg
+64,Thukpa (Noodle Soup),Street Food,220,11.0,35.0,5.0,3.0,100g,weight_loss,https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Thukpa.jpg/640px-Thukpa.jpg
+65,Samosa,Street Food,262,5.2,32.8,13.2,2.8,100g,maintenance,https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Samosa_2.jpg/640px-Samosa_2.jpg
+66,Chatpate,Street Food,180,5.5,32.0,4.5,4.0,100g,weight_loss,https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Chatpate.jpg/640px-Chatpate.jpg
+67,Aloo Tama (Potato Bamboo Curry),Traditional,145,4.5,25.5,3.5,3.5,100g,maintenance,https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Aloo_tama.jpg/640px-Aloo_tama.jpg
+68,Kheer (Rice Pudding),Sweets,178,4.5,32.0,5.0,0.3,100g,weight_gain,https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Kheer.jpg/640px-Kheer.jpg
+69,Halwa,Sweets,284,4.2,52.0,8.5,1.5,100g,weight_gain,https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Halwa.jpg/640px-Halwa.jpg
+70,Jeri (Jalebi),Sweets,337,2.3,67.5,7.7,0.3,100g,weight_gain,https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Jalebi.jpg/640px-Jalebi.jpg
+71,Yomari,Traditional,285,5.5,52.0,7.5,2.0,100g,maintenance,https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Yomari.jpg/640px-Yomari.jpg
+72,Bara (Black Lentil Pancake),Traditional,198,9.5,28.5,5.5,3.5,100g,maintenance,https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Bara.jpg/640px-Bara.jpg
+73,Woh,Traditional,192,9.0,27.5,5.8,3.0,100g,maintenance,https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Woh.jpg/640px-Woh.jpg
+74,Kwati (Mixed Bean Soup),Traditional,148,9.0,24.5,1.5,7.5,100g,weight_loss,https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Kwati.jpg/640px-Kwati.jpg
+75,Aloo Achaar (Potato Pickle),Pickles,95,2.5,18.5,2.5,2.0,100g,maintenance,https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Aloo_achaar.jpg/640px-Aloo_achaar.jpg
+76,Mango (Aap),Fruits,60,0.8,15.0,0.4,1.6,100g,maintenance,https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Hapus_Mango.jpg/640px-Hapus_Mango.jpg
+77,Banana (Kera),Fruits,89,1.1,22.8,0.3,2.6,100g,weight_gain,https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Banana-Clip-Art.jpg/640px-Banana-Clip-Art.jpg
+78,Apple (Syau),Fruits,52,0.3,13.8,0.2,2.4,100g,weight_loss,https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Red_Apple.jpg/640px-Red_Apple.jpg
+79,Orange (Suntala),Fruits,47,0.9,11.8,0.1,2.4,100g,weight_loss,https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Ambersweet_oranges.jpg/640px-Ambersweet_oranges.jpg
+80,Papaya (Mewa),Fruits,43,0.5,11.0,0.3,1.7,100g,weight_loss,https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Papaya_cross_section_and_slice.jpg/640px-Papaya_cross_section_and_slice.jpg
+81,Guava (Amba),Fruits,68,2.6,14.3,1.0,5.4,100g,weight_loss,https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/24701-nature-natural-beauty.jpg/640px-24701-nature-natural-beauty.jpg
+82,Watermelon (Tarbuja),Fruits,30,0.6,7.6,0.2,0.4,100g,weight_loss,https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Slices_of_watermelon.jpg/640px-Slices_of_watermelon.jpg
+83,Pineapple (Bhuin Katahar),Fruits,50,0.5,13.1,0.1,1.4,100g,weight_loss,https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Pineapple_and_cross_section.jpg/640px-Pineapple_and_cross_section.jpg
+84,Litchi (Lichi),Fruits,66,0.8,16.5,0.4,1.3,100g,maintenance,https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Lychee_-_Lijiang.jpg/640px-Lychee_-_Lijiang.jpg
+85,Plum (Aarukhada),Fruits,46,0.7,11.4,0.3,1.4,100g,weight_loss,https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Plums_2009.jpg/640px-Plums_2009.jpg
+86,Pomegranate (Anar),Fruits,83,1.7,18.7,1.2,4.0,100g,weight_loss,https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Pomegranate_fruit_-_whole_and_sectioned.jpg/640px-Pomegranate_fruit_-_whole_and_sectioned.jpg
+87,Jackfruit (Katahar),Fruits,95,1.7,23.2,0.6,1.5,100g,weight_gain,https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Jackfruit_section_07.jpg/640px-Jackfruit_section_07.jpg
+88,Avocado,Fruits,160,2.0,9.0,14.7,6.7,100g,muscle_gain,https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Sliced_Avocados.jpg/640px-Sliced_Avocados.jpg
+89,Milk Tea (Chiya),Beverages,74,2.2,9.8,3.1,0.0,100g,maintenance,https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Milk_tea_2.jpg/640px-Milk_tea_2.jpg
+90,Black Tea,Beverages,1,0.0,0.2,0.0,0.0,100g,weight_loss,https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Black_tea_in_glass.jpg/640px-Black_tea_in_glass.jpg
+91,Lassi (Yogurt Drink),Beverages,97,4.1,11.5,4.2,0.0,100g,maintenance,https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Lassi.jpg/640px-Lassi.jpg
+92,Tongba (Millet Beer),Beverages,85,1.5,15.5,0.5,0.5,100g,maintenance,https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Tongba.jpg/640px-Tongba.jpg
+93,Butter Tea (Churpi Chiya),Beverages,105,2.5,4.5,8.5,0.0,100g,weight_gain,https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Butter_tea.jpg/640px-Butter_tea.jpg
+94,Peanuts (Badaam),Nuts & Seeds,567,25.8,16.1,49.2,8.5,100g,muscle_gain,https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Peanuts_in_shells.jpg/640px-Peanuts_in_shells.jpg
+95,Sesame Seeds (Til),Nuts & Seeds,573,17.7,23.4,49.7,11.8,100g,muscle_gain,https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Sesame_Seeds_Macro.jpg/640px-Sesame_Seeds_Macro.jpg
+96,Walnuts (Okhar),Nuts & Seeds,654,15.2,13.7,65.2,6.7,100g,muscle_gain,https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Walnuts_in_bowl.jpg/640px-Walnuts_in_bowl.jpg
+97,Almonds,Nuts & Seeds,579,21.2,21.7,49.9,12.5,100g,muscle_gain,https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Almonds_and_almond_nut_pieces.jpg/640px-Almonds_and_almond_nut_pieces.jpg
+98,Flaxseeds (Alsi),Nuts & Seeds,534,18.3,28.9,42.2,27.3,100g,weight_loss,https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flax_Seeds.jpg/640px-Flax_Seeds.jpg
+99,Mustard Oil,Oils,884,0.0,0.0,100.0,0.0,100g,maintenance,https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Mustard_oil.jpg/640px-Mustard_oil.jpg
+100,Coconut Oil,Oils,862,0.0,0.0,100.0,0.0,100g,maintenance,https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Coconut_oil.jpg/640px-Coconut_oil.jpg
+101,Soybean Oil,Oils,884,0.0,0.0,100.0,0.0,100g,maintenance,https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Soybean_oil.jpg/640px-Soybean_oil.jpg
+102,Aloo Paratha,Bread & Roti,300,7.0,42.0,12.5,3.0,100g,maintenance,https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Aloo_paratha.jpg/640px-Aloo_paratha.jpg
+103,Saag (Leafy Green Curry),Vegetables,65,4.5,7.5,2.5,4.5,100g,weight_loss,https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Saag_paneer.jpg/640px-Saag_paneer.jpg
+104,Biryani (Pulao),Rice & Grains,290,9.5,45.5,9.5,2.0,100g,maintenance,https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Biryani_at_Shiraz_Golden_Restaurant.jpg/640px-Biryani_at_Shiraz_Golden_Restaurant.jpg
+105,Fried Rice (Bhuteko Bhat),Rice & Grains,238,7.0,38.5,7.5,1.5,100g,maintenance,https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Fried_rice_2.jpg/640px-Fried_rice_2.jpg
+106,Noodle Soup (Wai Wai),Street Food,330,7.5,47.0,13.5,1.5,100g,maintenance,https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Wai_wai.jpg/640px-Wai_wai.jpg
+107,Fish Curry (Macha Ko Jhol),Fish & Seafood,165,18.5,5.5,7.5,1.0,100g,weight_loss,https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Fish_curry.jpg/640px-Fish_curry.jpg
+108,Lemon (Kagati),Fruits,29,1.1,9.3,0.3,2.8,100g,weight_loss,https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Citrus_limon_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-067.jpg/640px-Citrus_limon_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-067.jpg
+109,Brinjal/Eggplant (Bhanta),Vegetables,25,1.0,5.9,0.2,3.0,100g,weight_loss,https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Aubergine.jpg/640px-Aubergine.jpg
+110,Ketchup (Tomato Sauce),Condiments,112,1.4,26.6,0.2,0.3,100g,maintenance,https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Tomato_ketchup_Fortnum_%26_Mason.jpg/640px-Tomato_ketchup_Fortnum_%26_Mason.jpg
+111,Pickle (Achaar),Pickles,70,1.5,12.5,2.5,2.5,100g,maintenance,https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Achar.jpg/640px-Achar.jpg
+112,Honey (Maaha),Sweets,304,0.3,82.4,0.0,0.2,100g,maintenance,https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Miel_-_abeilles.jpg/640px-Miel_-_abeilles.jpg
+113,Jaggery (Gud),Sweets,383,0.4,98.0,0.1,0.0,100g,weight_gain,https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Jaggery.jpg/640px-Jaggery.jpg
+114,Lapsi Candy (Hog Plum),Snacks,44,0.5,10.9,0.1,1.8,100g,weight_loss,https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Lapsi.jpg/640px-Lapsi.jpg
+115,Popcorn,Snacks,375,11.0,74.3,4.5,14.5,100g,weight_loss,https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Popcorn_from_2009.jpg/640px-Popcorn_from_2009.jpg
+116,Roasted Corn (Bilaune Makai),Snacks,352,8.0,73.5,4.0,7.0,100g,maintenance,https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Corn_kernels.jpg/640px-Corn_kernels.jpg
+117,Saatu (Roasted Flour),Snacks,388,14.2,70.5,6.5,4.5,100g,weight_gain,https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Sattu.jpg/640px-Sattu.jpg
+118,Nimki (Crackers),Snacks,465,8.5,58.5,22.5,2.5,100g,maintenance,https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Nimki.jpg/640px-Nimki.jpg
+119,Papad,Snacks,371,19.5,64.5,4.5,2.0,100g,maintenance,https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Papad.jpg/640px-Papad.jpg
+120,Aloo Chips,Snacks,536,7.0,53.0,34.5,4.5,100g,maintenance,https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Original_Lay%27s_Chips.JPG/640px-Original_Lay%27s_Chips.JPG
+121,Dhakane (Sprouted Gram),Snacks,133,9.0,22.5,0.8,8.5,100g,weight_loss,https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Sprouts.jpg/640px-Sprouts.jpg
+122,Lentil Soup (Dal Jhol),Dal & Rice,98,6.5,15.5,1.2,4.0,100g,weight_loss,https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Dal_bhat.jpg/640px-Dal_bhat.jpg
+123,Mixed Vegetable Curry,Vegetables,85,3.0,12.5,3.0,3.5,100g,weight_loss,https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Vegetable_curry.jpg/640px-Vegetable_curry.jpg
+124,Paneer Curry,Eggs & Dairy,290,14.5,7.5,22.5,1.0,100g,muscle_gain,https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Paneer_tikka_masala.jpg/640px-Paneer_tikka_masala.jpg
+125,Tofu Stir Fry,Protein Foods,144,10.5,8.5,8.0,2.0,100g,muscle_gain,https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Tofu_stir_fry.jpg/640px-Tofu_stir_fry.jpg
+126,Black Bean Curry,Legumes,155,9.5,24.5,3.0,8.5,100g,muscle_gain,https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Black_Bean_Soup.jpg/640px-Black_Bean_Soup.jpg
+127,Corn Soup,Soups,75,2.5,15.5,1.0,1.5,100g,weight_loss,https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Corn_soup.jpg/640px-Corn_soup.jpg
+128,Tomato Soup,Soups,55,1.5,11.5,0.8,1.5,100g,weight_loss,https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Tomato_soup.jpg/640px-Tomato_soup.jpg
+129,Vegetable Soup,Soups,65,3.0,12.5,1.0,3.0,100g,weight_loss,https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Vegetable_soup.jpg/640px-Vegetable_soup.jpg
+130,Chicken Soup,Soups,75,8.5,5.0,2.5,0.5,100g,muscle_gain,https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Chicken_soup.jpg/640px-Chicken_soup.jpg
+131,Fried Chicken,Meat,265,23.5,8.5,15.5,0.5,100g,muscle_gain,https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Fried_chicken.jpg/640px-Fried_chicken.jpg
+132,Grilled Chicken Breast,Meat,165,31.0,0.0,3.6,0.0,100g,muscle_gain,https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Grilled_chicken.jpg/640px-Grilled_chicken.jpg
+133,Tuna (Canned),Fish & Seafood,116,26.0,0.0,1.0,0.0,100g,muscle_gain,https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Canned_tuna_in_water.jpg/640px-Canned_tuna_in_water.jpg
+134,Salmon Fillet,Fish & Seafood,208,20.0,0.0,13.4,0.0,100g,muscle_gain,https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Salmon_Slice.jpg/640px-Salmon_Slice.jpg
+135,Greek Yogurt,Eggs & Dairy,59,10.0,3.6,0.4,0.0,100g,muscle_gain,https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Bowl_of_yogurt.jpg/640px-Bowl_of_yogurt.jpg
+136,Low Fat Milk,Eggs & Dairy,35,3.4,4.8,0.2,0.0,100g,weight_loss,https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Milk_glass.jpg/640px-Milk_glass.jpg
+137,Whole Wheat Bread,Bread & Roti,247,13.0,41.0,3.4,7.0,100g,weight_loss,https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Whole_wheat_bread.jpg/640px-Whole_wheat_bread.jpg
+138,White Bread,Bread & Roti,265,9.0,49.0,3.2,2.7,100g,maintenance,https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Fresh_made_bread_05.jpg/640px-Fresh_made_bread_05.jpg
+139,Pasta (Macaroni),Rice & Grains,371,13.0,74.7,1.5,3.2,100g,maintenance,https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Macaroni_and_cheese.jpg/640px-Macaroni_and_cheese.jpg
+140,Pizza (Slice),Street Food,266,11.0,33.0,10.4,2.3,100g,maintenance,https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Eq_it-na_pizza-margherita_sep2005_sml.jpg/640px-Eq_it-na_pizza-margherita_sep2005_sml.jpg
+141,Burger,Street Food,295,17.0,24.0,14.0,1.5,100g,maintenance,https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/PNG_transparency_demonstration_1.png/640px-PNG_transparency_demonstration_1.png
+142,French Fries,Street Food,312,3.4,41.4,15.0,3.8,100g,maintenance,https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Potato-Chips.jpg/640px-Potato-Chips.jpg
+143,Sandwich,Street Food,250,10.5,33.5,8.5,3.0,100g,maintenance,https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Club_sandwich.JPG/640px-Club_sandwich.JPG
+144,Idli,Traditional,58,2.7,11.8,0.4,0.5,100g,weight_loss,https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Idli_Sambar.jpg/640px-Idli_Sambar.jpg
+145,Dosa,Traditional,165,4.5,30.0,3.5,1.2,100g,maintenance,https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Plain_dosa.jpg/640px-Plain_dosa.jpg
+146,Upma,Traditional,150,4.0,28.0,3.5,2.0,100g,weight_loss,https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Upma_in_bowl.jpg/640px-Upma_in_bowl.jpg
+147,Poha (Flattened Rice),Traditional,250,4.0,47.5,6.0,1.5,100g,maintenance,https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Poha_dish.jpg/640px-Poha_dish.jpg
+148,Cereal (Corn Flakes),Breakfast Foods,357,7.5,84.0,0.9,1.2,100g,maintenance,https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Cornflakes.JPG/640px-Cornflakes.JPG
+149,Muesli,Breakfast Foods,370,11.5,65.0,8.5,7.5,100g,weight_loss,https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Muesli_assorment.jpg/640px-Muesli_assorment.jpg
+150,Granola,Breakfast Foods,471,10.0,64.0,20.0,6.5,100g,weight_gain,https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Granola.jpg/640px-Granola.jpg
+151,Protein Bar,Supplements,370,25.0,48.0,8.5,5.0,100g,muscle_gain,https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Protein_bar.jpg/640px-Protein_bar.jpg
+152,Protein Shake,Supplements,200,30.0,10.0,3.5,1.5,100g,muscle_gain,https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Protein_shake.jpg/640px-Protein_shake.jpg
+153,Energy Drink,Beverages,112,1.0,28.0,0.0,0.0,100g,maintenance,https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Red_Bull_Energy_Drink.jpg/640px-Red_Bull_Energy_Drink.jpg
+154,Orange Juice,Beverages,45,0.7,10.4,0.2,0.2,100g,weight_loss,https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Hapus_Mango.jpg/640px-Hapus_Mango.jpg
+155,Coconut Water,Beverages,19,0.7,3.7,0.2,1.1,100g,weight_loss,https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Coconut_water.jpg/640px-Coconut_water.jpg
+156,Sugarcane Juice (Ukhoo Ras),Beverages,78,0.3,19.5,0.1,0.0,100g,maintenance,https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Sugarcane_juice.jpg/640px-Sugarcane_juice.jpg
+157,Coffee (Black),Beverages,1,0.3,0.0,0.0,0.0,100g,weight_loss,https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/A_small_cup_of_coffee.JPG/640px-A_small_cup_of_coffee.JPG
+158,Lemon Water,Beverages,11,0.1,3.5,0.0,0.1,100g,weight_loss,https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Lemon_water.jpg/640px-Lemon_water.jpg
+159,Strawberry,Fruits,32,0.7,7.7,0.3,2.0,100g,weight_loss,https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/PerfectStrawberry.jpg/640px-PerfectStrawberry.jpg
+160,Grapes (Angur),Fruits,67,0.6,17.2,0.4,0.9,100g,maintenance,https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Table_grapes_on_white.jpg/640px-Table_grapes_on_white.jpg
+161,Kiwi,Fruits,61,1.1,14.7,0.5,3.0,100g,weight_loss,https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Kiwi_-_Rayda.jpg/640px-Kiwi_-_Rayda.jpg
+162,Pear (Naspati),Fruits,57,0.4,15.2,0.1,3.1,100g,weight_loss,https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Pears.jpg/640px-Pears.jpg
+163,Fig (Anjir),Fruits,74,0.75,19.2,0.3,2.9,100g,maintenance,https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Figs.jpg/640px-Figs.jpg
+164,Dates (Khurmah),Fruits,277,1.8,74.97,0.2,6.7,100g,weight_gain,https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Dates_on_a_palm_frond.jpg/640px-Dates_on_a_palm_frond.jpg
+165,Raisins (Kismis),Fruits,299,3.1,79.2,0.5,3.7,100g,weight_gain,https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Dried_raisins.jpg/640px-Dried_raisins.jpg
+166,Asparagus,Vegetables,20,2.2,3.7,0.1,2.1,100g,weight_loss,https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Asparagus_officinalis_0.01.jpg/640px-Asparagus_officinalis_0.01.jpg
+167,Bell Pepper (Capsicum),Vegetables,31,1.0,7.3,0.3,2.1,100g,weight_loss,https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Bell_pepper_2.jpg/640px-Bell_pepper_2.jpg
+168,Mushroom (Chyau),Vegetables,22,3.1,3.3,0.3,1.0,100g,weight_loss,https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Mushroom_-_Fungus.jpg/640px-Mushroom_-_Fungus.jpg
+169,Zucchini,Vegetables,17,1.2,3.1,0.3,1.0,100g,weight_loss,https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Zucchini_R.jpg/640px-Zucchini_R.jpg
+170,Celery,Vegetables,16,0.7,3.0,0.2,1.6,100g,weight_loss,https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Celery_Pascal.jpg/640px-Celery_Pascal.jpg
+171,Leek,Vegetables,61,1.5,14.2,0.3,1.8,100g,weight_loss,https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Leeks_on_white.jpg/640px-Leeks_on_white.jpg
+172,Bottle Gourd (Lauka),Vegetables,14,0.6,3.4,0.0,0.5,100g,weight_loss,https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Lauki.JPG/640px-Lauki.JPG
+173,Ridge Gourd (Ghiraula),Vegetables,20,1.2,4.4,0.2,0.5,100g,weight_loss,https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Luffa_acutangula_fruits.jpg/640px-Luffa_acutangula_fruits.jpg
+174,Sponge Gourd (Pharsi Chana),Vegetables,18,1.2,3.5,0.2,0.5,100g,weight_loss,https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Luffa_cylindrica.JPG/640px-Luffa_cylindrica.JPG
+175,Turnip (Salgam),Vegetables,28,0.9,6.4,0.1,1.8,100g,weight_loss,https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Turnip_2622027.jpg/640px-Turnip_2622027.jpg
+176,Yam (Tarul),Vegetables,118,1.5,27.9,0.2,4.1,100g,maintenance,https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Yam_Guinea_closeup.jpg/640px-Yam_Guinea_closeup.jpg
+177,Colocasia (Karkalo),Vegetables,112,1.5,26.5,0.2,4.1,100g,maintenance,https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Colocasia_esculenta_leaves_and_taro.jpg/640px-Colocasia_esculenta_leaves_and_taro.jpg
+178,Fried Egg (Omelette),Eggs & Dairy,154,10.6,0.4,11.7,0.0,100g,muscle_gain,https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Scrambled_eggs.jpg/640px-Scrambled_eggs.jpg
+179,Curd Rice,Rice & Grains,145,4.0,28.5,2.5,0.5,100g,maintenance,https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Curd_rice.jpg/640px-Curd_rice.jpg
+180,Vegetable Biryani,Rice & Grains,240,6.0,42.0,7.0,3.5,100g,maintenance,https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Biryani_at_Shiraz_Golden_Restaurant.jpg/640px-Biryani_at_Shiraz_Golden_Restaurant.jpg
+181,Mutton Biryani,Rice & Grains,340,16.0,38.0,14.5,2.0,100g,muscle_gain,https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Biryani_at_Shiraz_Golden_Restaurant.jpg/640px-Biryani_at_Shiraz_Golden_Restaurant.jpg
+182,Chicken Biryani,Rice & Grains,290,16.0,38.5,9.0,2.0,100g,muscle_gain,https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Biryani_at_Shiraz_Golden_Restaurant.jpg/640px-Biryani_at_Shiraz_Golden_Restaurant.jpg
+183,Lemon Rice,Rice & Grains,185,3.5,36.5,4.0,1.5,100g,maintenance,https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Banquet_rice.jpg/640px-Banquet_rice.jpg
+184,Tomato Rice,Rice & Grains,178,3.5,35.5,3.5,2.0,100g,maintenance,https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Banquet_rice.jpg/640px-Banquet_rice.jpg
+185,Pea Pulao,Rice & Grains,215,5.5,38.0,5.5,3.0,100g,maintenance,https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Banquet_rice.jpg/640px-Banquet_rice.jpg
+186,Khichdi,Dal & Rice,165,6.5,28.0,3.5,3.5,100g,weight_loss,https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Dal_bhat.jpg/640px-Dal_bhat.jpg
+187,Chapati with Sabzi,Bread & Roti,220,7.0,35.5,6.0,5.5,100g,weight_loss,https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Chapati.jpg/640px-Chapati.jpg
+188,Naan,Bread & Roti,262,8.7,45.4,5.1,1.6,100g,maintenance,https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Naan.jpg/640px-Naan.jpg
+189,Tandoori Chicken,Meat,200,25.0,6.0,9.0,0.5,100g,muscle_gain,https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Tandoori_chicken.jpg/640px-Tandoori_chicken.jpg
+190,Kebab,Meat,235,22.5,5.5,14.0,0.5,100g,muscle_gain,https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Seekh_kebab.jpg/640px-Seekh_kebab.jpg
+191,Lamb/Mutton Sekuwa,Meat,285,26.5,2.0,18.5,0.0,100g,muscle_gain,https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Mutton_curry.jpg/640px-Mutton_curry.jpg
+192,Chicken Sekuwa,Meat,215,28.5,2.5,10.5,0.0,100g,muscle_gain,https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Fried_chicken.jpg/640px-Fried_chicken.jpg
+193,Buff Choila,Meat,250,28.0,3.5,14.0,0.5,100g,muscle_gain,https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Raw_meat.jpg/640px-Raw_meat.jpg
+194,Egg Bhurji,Eggs & Dairy,175,10.5,3.5,12.5,0.5,100g,muscle_gain,https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Scrambled_eggs.jpg/640px-Scrambled_eggs.jpg
+195,Masala Omelette,Eggs & Dairy,165,10.0,3.5,12.0,1.0,100g,muscle_gain,https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Scrambled_eggs.jpg/640px-Scrambled_eggs.jpg
+196,Rabadi (Thickened Milk),Eggs & Dairy,155,6.0,22.5,5.5,0.0,100g,weight_gain,https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Milk_glass.jpg/640px-Milk_glass.jpg
+197,Shrikhand,Eggs & Dairy,225,8.5,37.5,6.0,0.0,100g,weight_gain,https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Bowl_of_yogurt.jpg/640px-Bowl_of_yogurt.jpg
+198,Peda (Milk Sweet),Sweets,365,8.5,62.5,10.5,0.0,100g,weight_gain,https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Mathura_ke_pede.jpg/640px-Mathura_ke_pede.jpg
+199,Barfi (Milk Fudge),Sweets,393,9.5,67.5,11.5,0.0,100g,weight_gain,https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Barfi_sweets.jpg/640px-Barfi_sweets.jpg
+200,Gajar Halwa (Carrot Pudding),Sweets,285,5.5,42.5,12.0,2.5,100g,weight_gain,https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Halwa.jpg/640px-Halwa.jpg
+201,Rosogolla,Sweets,125,3.5,25.5,1.5,0.0,100g,weight_gain,https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Rosogolla_sweet.jpg/640px-Rosogolla_sweet.jpg
+202,Gulab Jamun,Sweets,175,3.5,30.5,5.5,0.0,100g,weight_gain,https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Gulab_jamun_%28GJ%29.jpg/640px-Gulab_jamun_%28GJ%29.jpg
+203,Rasgulla,Sweets,125,3.5,25.0,1.5,0.0,100g,weight_gain,https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Rosogolla_sweet.jpg/640px-Rosogolla_sweet.jpg
+204,Kulfi (Ice Cream),Sweets,196,5.0,32.5,6.5,0.0,100g,weight_gain,https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Kulfi_ice_cream.jpg/640px-Kulfi_ice_cream.jpg
+205,Mango Lassi,Beverages,128,3.5,24.5,2.5,0.5,100g,maintenance,https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Lassi.jpg/640px-Lassi.jpg
+206,Rose Sherbet,Beverages,110,0.2,27.5,0.0,0.0,100g,maintenance,https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Rose_Sharbat.jpg/640px-Rose_Sharbat.jpg
+207,Nimbu Pani (Lemonade),Beverages,25,0.1,6.5,0.0,0.0,100g,weight_loss,https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Lemon_water.jpg/640px-Lemon_water.jpg
+208,Turmeric Milk (Haldi Doodh),Beverages,75,3.5,7.5,3.0,0.0,100g,maintenance,https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Milk_glass.jpg/640px-Milk_glass.jpg
+209,Almond Milk,Beverages,39,1.5,3.5,2.5,0.5,100g,weight_loss,https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Milk_glass.jpg/640px-Milk_glass.jpg
+210,Sprouts Salad,Salads,115,9.0,18.5,0.8,8.5,100g,weight_loss,https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Sprouts.jpg/640px-Sprouts.jpg
+211,Mixed Green Salad,Salads,35,2.5,6.5,0.5,3.0,100g,weight_loss,https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Mixed_salad_greens.jpg/640px-Mixed_salad_greens.jpg
+212,Cucumber Tomato Salad,Salads,28,1.5,5.5,0.3,1.5,100g,weight_loss,https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Cucumber_salad.jpg/640px-Cucumber_salad.jpg
+213,Fruit Salad (Phalphul),Salads,60,1.0,15.0,0.3,2.5,100g,weight_loss,https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Fruit_salad.jpg/640px-Fruit_salad.jpg
+214,Chickpea Salad (Chana Chat),Salads,155,8.5,25.5,2.5,7.5,100g,weight_loss,https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Chickpeas_%28garbanzo_beans%29.jpg/640px-Chickpeas_%28garbanzo_beans%29.jpg
+215,Paleo Mix (Nuts & Dry Fruits),Snacks,490,12.0,42.0,32.5,7.5,100g,muscle_gain,https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Peanuts_in_shells.jpg/640px-Peanuts_in_shells.jpg

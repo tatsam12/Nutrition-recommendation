@@ -1,0 +1,10 @@
+bmi_range,bmi_category,recommendation_type
+< 16.0,Severe Thinness,High Energy
+16.0-16.9,Moderate Thinness,High Energy
+17.0-18.4,Mild Thinness,High Energy
+18.5-24.9,Normal Weight,Balanced Diet
+25.0-27.4,Pre-Obese,Low Calorie
+27.5-29.9,Overweight,Low Calorie
+30.0-34.9,Obese Class I,Low Calorie
+35.0-39.9,Obese Class II,Low Calorie
+>= 40.0,Obese Class III,Low Calorie
