@@ -1,4 +1,4 @@
-# NutriNepal - Nutrition Recommendation System
+# NutriHealth - Nutrition Recommendation System
 
 A production-ready full-stack web application for personalized nutrition recommendations.
 
