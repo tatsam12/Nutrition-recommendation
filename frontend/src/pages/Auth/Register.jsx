@@ -21,7 +21,9 @@ export default function Register() {
       toast.success('Account created successfully! Please log in.')
       navigate('/login')
     } catch (err) {
-      toast.error(err.response?.data?.detail || 'Registration failed')
+      setPasswordError(
+        err.response?.data?.detail || 'Password must be at least 8 characters'
+      )
     } finally {
       setLoading(false)
     }
@@ -74,6 +76,11 @@ export default function Register() {
                 {showPw ? <MdVisibilityOff size={18} /> : <MdVisibility size={18} />}
               </button>
             </div>
+              {passwordError && (
+    <p className="mt-1 text-sm text-red-600">
+        {passwordError}
+    </p>
+)}
           </div>
 
           <div>
@@ -85,6 +92,11 @@ export default function Register() {
                 className="input-field pl-9" placeholder="Repeat your password"
               />
             </div>
+              {passwordError && (
+    <p className="mt-1 text-sm text-red-600">
+        {passwordError}
+    </p>
+)}
           </div>
 
           <button type="submit" disabled={loading} className="btn-primary w-full mt-2">
