@@ -10,16 +10,20 @@ export default function Login() {
   const [form, setForm]       = useState({ email: '', password: '' })
   const [showPw, setShowPw]   = useState(false)
   const [loading, setLoading] = useState(false)
+  const [passwordError, setPasswordError] = useState('')
 
   const handleSubmit = async (e) => {
     e.preventDefault()
+    setPasswordError('')
     setLoading(true)
     try {
       await login(form.email, form.password)
       toast.success('Welcome back!')
       navigate('/dashboard')
     } catch (err) {
-      toast.error(err.response?.data?.detail || 'Login failed')
+      setPasswordError(
+        err.response?.data?.detail || 'Invalid email or password'
+      )
     } finally {
       setLoading(false)
     }
@@ -67,6 +71,11 @@ export default function Login() {
                 {showPw ? <MdVisibilityOff size={18} /> : <MdVisibility size={18} />}
               </button>
             </div>
+            {passwordError && (
+    <p className="mt-1 text-sm text-red-600">
+        {passwordError}
+    </p>
+)}
           </div>
 
           <button type="submit" disabled={loading} className="btn-primary w-full mt-2">
