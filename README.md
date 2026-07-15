@@ -1,6 +1,6 @@
 # NutriHealth - Nutrition Recommendation System
 
-NutriNepal is an MVP nutrition recommendation system developed as a capstone project. The application focuses on Nepali dietary habits and currently uses a synthetic dataset to demonstrate personalized meal recommendations. Future work includes integrating real-world nutritional datasets, hybrid recommendation algorithms, and AI-based nutrient prediction.
+Nutrihealth is an MVP nutrition recommendation system developed as a capstone project. The application focuses on Nepali dietary habits and currently uses a synthetic dataset to demonstrate personalized meal recommendations. Future work includes integrating real-world nutritional datasets, hybrid recommendation algorithms, and AI-based nutrient prediction.
 
 ## Tech Stack
 - **Frontend**: React + Vite + Tailwind CSS + Recharts

@@ -5,15 +5,14 @@ Run: python generate_datasets.py
 """
 
 import csv
+import pandas as pd
 import random
 import math
 from datetime import datetime, timedelta
 
 random.seed(42)
 
-# ============================================================
-# DATASET 1: food_dataset.csv  (300+ Nepal-focused foods)
-# ============================================================
+
 
 FOODS = [
     # (food_name, category, calories, protein, carbs, fat, fiber, recommended_goal, image_url)
@@ -379,19 +378,30 @@ EXTRA_FOODS = [
 ]
 
 all_foods = FOODS + EXTRA_FOODS
+final_330_foods = []
 
-print(f"Total food records: {len(all_foods)}")
+for item in all_foods:
+    name, cat, cal, prot, carb, fat, fib, goal, img = item
+    final_330_foods.append(item)
+    
+    # Programmatically generate a "Half Portion"
+    final_330_foods.append((
+        f"Half Portion {name}", cat, 
+        round(cal * 0.5), round(prot * 0.5, 1), round(carb * 0.5, 1), 
+        round(fat * 0.5, 1), round(fib * 0.5, 1), goal, img
+    ))
+    
+    # Programmatically generate a "Double Portion"
+    final_330_foods.append((
+        f"Double Portion {name}", cat, 
+        round(cal * 2), round(prot * 2, 1), round(carb * 2, 1), 
+        round(fat * 2, 1), round(fib * 2, 1), goal, img
+    ))
 
-# Write food_dataset.csv
-with open("food_dataset.csv", "w", newline="", encoding="utf-8") as f:
-    writer = csv.writer(f)
-    writer.writerow(["food_id","food_name","category","calories","protein","carbohydrates",
-                     "fat","fiber","serving_size","recommended_goal","image_url"])
-    for i, food in enumerate(all_foods, 1):
-        name, cat, cal, prot, carbs, fat, fib, goal, img = food
-        writer.writerow([i, name, cat, cal, prot, carbs, fat, fib, "100g", goal, img])
-
-print("[OK] food_dataset.csv written")
+# Create a DataFrame and save it as a CSV
+df = pd.DataFrame(final_330_foods, columns=["food_name", "category", "calories", "protein", "carbohydrates", "fats", "fiber", "goal", "image_url"])
+df.to_csv("food_dataset.csv", index=False)
+print("Dataset created successfully!")
 
 
 # ============================================================

@@ -1,391 +1,6 @@
 breakfast,lunch,dinner,snack,nutrition_goal
-Scrambled Eggs,Dal Bhat,Saag (Leafy Green Curry),Chatpate,weight_gain
-Granola,Chicken Curry,Vegetable Soup,Banana (Kera),weight_gain
-Muesli,Aloo Tama (Potato Bamboo Curry),Dal Bhat,Popcorn,maintenance
-Sel Roti,Momo (Steamed Dumpling),Chicken Soup,Sprouts Salad,weight_gain
-Scrambled Eggs,Thukpa (Noodle Soup),Brown Rice,Fruit Salad (Phalphul),muscle_gain
-Granola,Vegetable Biryani,Dal Bhat,Banana (Kera),weight_loss
-Scrambled Eggs,Momo (Steamed Dumpling),Roti (Wheat Flatbread),Popcorn,maintenance
-Bara (Black Lentil Pancake),Mixed Vegetable Curry,Fish Curry (Macha Ko Jhol),Peanuts (Badaam),weight_loss
-Boiled Egg,Dal Bhat,Dal Bhat,Sprouts Salad,weight_gain
-Sel Roti,Chicken Curry,Buff Choila,Sprouts Salad,muscle_gain
-Bara (Black Lentil Pancake),Khichdi,Brown Rice,Banana (Kera),muscle_gain
-Scrambled Eggs,Mixed Vegetable Curry,Chicken Soup,Chatpate,muscle_gain
-Milk Tea (Chiya),Mixed Vegetable Curry,Saag (Leafy Green Curry),Chatpate,weight_gain
-Boiled Egg,Aloo Tama (Potato Bamboo Curry),Fish Curry (Macha Ko Jhol),Popcorn,weight_loss
-Muesli,Khichdi,Roti (Wheat Flatbread),Fruit Salad (Phalphul),maintenance
-Oatmeal (Jaulo),Chicken Curry,Tofu Stir Fry,Chatpate,maintenance
-Bara (Black Lentil Pancake),Paneer Curry,Tofu Stir Fry,Mixed Green Salad,muscle_gain
-Boiled Egg,Chapati with Sabzi,Brown Rice,Banana (Kera),maintenance
-Boiled Egg,Gundruk,Curd Rice,Yogurt (Dahi),maintenance
-Poha (Flattened Rice),Paneer Curry,Roti (Wheat Flatbread),Banana (Kera),weight_loss
-Boiled Egg,Chicken Curry,Tofu Stir Fry,Protein Bar,muscle_gain
-Scrambled Eggs,Aloo Tama (Potato Bamboo Curry),Dal Bhat,Fruit Salad (Phalphul),weight_gain
-Poha (Flattened Rice),Paneer Curry,Mutton Curry,Peanuts (Badaam),maintenance
-Muesli,Chicken Curry,Brown Rice,Popcorn,weight_gain
-Granola,Khichdi,Fish Curry (Macha Ko Jhol),Banana (Kera),maintenance
-Bara (Black Lentil Pancake),Aloo Tama (Potato Bamboo Curry),Curd Rice,Yogurt (Dahi),muscle_gain
-Boiled Egg,Mixed Vegetable Curry,Buff Choila,Mixed Green Salad,muscle_gain
-Roti (Wheat Flatbread),Paneer Curry,Saag (Leafy Green Curry),Protein Bar,maintenance
-Granola,Dal Bhat,Fish Curry (Macha Ko Jhol),Popcorn,muscle_gain
-Sel Roti,Khichdi,Saag (Leafy Green Curry),Banana (Kera),maintenance
-Granola,Khichdi,Brown Rice,Popcorn,maintenance
-Scrambled Eggs,Paneer Curry,Tofu Stir Fry,Lapsi Candy (Hog Plum),weight_gain
-Chiura (Beaten Rice),Gundruk,Dal Bhat,Sprouts Salad,muscle_gain
-Muesli,Mixed Vegetable Curry,Roti (Wheat Flatbread),Peanuts (Badaam),maintenance
-Cereal (Corn Flakes),Gundruk,Buff Choila,Mixed Green Salad,weight_loss
-Poha (Flattened Rice),Chicken Curry,Brown Rice,Mixed Green Salad,muscle_gain
-Cereal (Corn Flakes),Gundruk,Mutton Curry,Fruit Salad (Phalphul),weight_gain
-Muesli,Khichdi,Grilled Chicken Breast,Fruit Salad (Phalphul),maintenance
-Idli,Chicken Curry,Chicken Soup,Chatpate,weight_gain
-Cereal (Corn Flakes),Vegetable Biryani,Dal Bhat,Yogurt (Dahi),muscle_gain
-Idli,Gundruk,Roti (Wheat Flatbread),Peanuts (Badaam),muscle_gain
-Muesli,Chapati with Sabzi,Buff Choila,Apple (Syau),muscle_gain
-Boiled Egg,Masoor Dal,Curd Rice,Roasted Corn (Bilaune Makai),weight_loss
-Poha (Flattened Rice),Mixed Vegetable Curry,Vegetable Soup,Sprouts Salad,weight_gain
-Chiura (Beaten Rice),Mixed Vegetable Curry,Grilled Chicken Breast,Lapsi Candy (Hog Plum),muscle_gain
-Bara (Black Lentil Pancake),Khichdi,Fish Curry (Macha Ko Jhol),Peanuts (Badaam),muscle_gain
-Granola,Dal Bhat,Tofu Stir Fry,Peanuts (Badaam),maintenance
-Muesli,Aloo Tama (Potato Bamboo Curry),Roti (Wheat Flatbread),Protein Bar,maintenance
-Cereal (Corn Flakes),Chapati with Sabzi,Brown Rice,Banana (Kera),weight_gain
-Bara (Black Lentil Pancake),Chapati with Sabzi,Buff Choila,Mixed Green Salad,muscle_gain
-Boiled Egg,Gundruk,Dal Bhat,Protein Bar,muscle_gain
-Bara (Black Lentil Pancake),Paneer Curry,Curd Rice,Fruit Salad (Phalphul),maintenance
-Idli,Chicken Curry,Roti (Wheat Flatbread),Banana (Kera),weight_gain
-Scrambled Eggs,Momo (Steamed Dumpling),Grilled Chicken Breast,Sprouts Salad,weight_loss
-Muesli,Chicken Curry,Roti (Wheat Flatbread),Banana (Kera),muscle_gain
-Boiled Egg,Khichdi,Fish Curry (Macha Ko Jhol),Popcorn,weight_loss
-Scrambled Eggs,Vegetable Biryani,Saag (Leafy Green Curry),Popcorn,weight_gain
-Roti (Wheat Flatbread),Dal Bhat,Vegetable Soup,Peanuts (Badaam),weight_loss
-Oatmeal (Jaulo),Gundruk,Vegetable Soup,Banana (Kera),maintenance
-Muesli,Thukpa (Noodle Soup),Grilled Chicken Breast,Sprouts Salad,weight_loss
-Sel Roti,Vegetable Biryani,Chicken Soup,Yogurt (Dahi),weight_gain
-Granola,Mixed Vegetable Curry,Mutton Curry,Yogurt (Dahi),muscle_gain
-Boiled Egg,Vegetable Biryani,Grilled Chicken Breast,Peanuts (Badaam),maintenance
-Cereal (Corn Flakes),Masoor Dal,Dal Bhat,Roasted Corn (Bilaune Makai),maintenance
-Oatmeal (Jaulo),Vegetable Biryani,Tofu Stir Fry,Apple (Syau),maintenance
-Roti (Wheat Flatbread),Gundruk,Tofu Stir Fry,Popcorn,weight_gain
-Muesli,Chapati with Sabzi,Grilled Chicken Breast,Protein Bar,maintenance
-Cereal (Corn Flakes),Gundruk,Brown Rice,Sprouts Salad,weight_gain
-Milk Tea (Chiya),Gundruk,Roti (Wheat Flatbread),Mixed Green Salad,weight_gain
-Boiled Egg,Khichdi,Fish Curry (Macha Ko Jhol),Fruit Salad (Phalphul),muscle_gain
-Idli,Chapati with Sabzi,Buff Choila,Protein Bar,weight_gain
-Idli,Chicken Curry,Chicken Soup,Yogurt (Dahi),weight_gain
-Chiura (Beaten Rice),Thukpa (Noodle Soup),Vegetable Soup,Fruit Salad (Phalphul),weight_loss
-Cereal (Corn Flakes),Paneer Curry,Brown Rice,Chatpate,muscle_gain
-Roti (Wheat Flatbread),Khichdi,Buff Choila,Mixed Green Salad,weight_gain
-Chiura (Beaten Rice),Chapati with Sabzi,Saag (Leafy Green Curry),Chatpate,maintenance
-Bara (Black Lentil Pancake),Aloo Tama (Potato Bamboo Curry),Roti (Wheat Flatbread),Banana (Kera),weight_gain
-Cereal (Corn Flakes),Aloo Tama (Potato Bamboo Curry),Roti (Wheat Flatbread),Banana (Kera),maintenance
-Muesli,Khichdi,Buff Choila,Chatpate,weight_gain
-Chiura (Beaten Rice),Gundruk,Chicken Soup,Protein Bar,maintenance
-Roti (Wheat Flatbread),Thukpa (Noodle Soup),Vegetable Soup,Banana (Kera),weight_loss
-Sel Roti,Momo (Steamed Dumpling),Dal Bhat,Peanuts (Badaam),weight_loss
-Sel Roti,Vegetable Biryani,Tofu Stir Fry,Sprouts Salad,weight_loss
-Muesli,Gundruk,Brown Rice,Chatpate,muscle_gain
-Oatmeal (Jaulo),Dal Bhat,Vegetable Soup,Fruit Salad (Phalphul),maintenance
-Boiled Egg,Aloo Tama (Potato Bamboo Curry),Tofu Stir Fry,Banana (Kera),weight_gain
-Muesli,Thukpa (Noodle Soup),Mutton Curry,Fruit Salad (Phalphul),weight_loss
-Boiled Egg,Aloo Tama (Potato Bamboo Curry),Buff Choila,Sprouts Salad,weight_loss
-Sel Roti,Paneer Curry,Tofu Stir Fry,Popcorn,weight_gain
-Granola,Vegetable Biryani,Fish Curry (Macha Ko Jhol),Banana (Kera),weight_gain
-Scrambled Eggs,Chicken Curry,Grilled Chicken Breast,Sprouts Salad,maintenance
-Boiled Egg,Aloo Tama (Potato Bamboo Curry),Roti (Wheat Flatbread),Fruit Salad (Phalphul),maintenance
-Sel Roti,Mixed Vegetable Curry,Fish Curry (Macha Ko Jhol),Lapsi Candy (Hog Plum),muscle_gain
-Sel Roti,Mixed Vegetable Curry,Dal Bhat,Popcorn,maintenance
-Roti (Wheat Flatbread),Gundruk,Mutton Curry,Protein Bar,muscle_gain
-Poha (Flattened Rice),Mixed Vegetable Curry,Fish Curry (Macha Ko Jhol),Roasted Corn (Bilaune Makai),weight_loss
-Scrambled Eggs,Momo (Steamed Dumpling),Brown Rice,Protein Bar,muscle_gain
-Muesli,Khichdi,Vegetable Soup,Banana (Kera),maintenance
-Sel Roti,Mixed Vegetable Curry,Fish Curry (Macha Ko Jhol),Banana (Kera),maintenance
-Idli,Khichdi,Dal Bhat,Apple (Syau),weight_gain
-Scrambled Eggs,Vegetable Biryani,Buff Choila,Banana (Kera),weight_gain
-Boiled Egg,Vegetable Biryani,Mutton Curry,Banana (Kera),weight_loss
-Idli,Chapati with Sabzi,Dal Bhat,Banana (Kera),maintenance
-Oatmeal (Jaulo),Chapati with Sabzi,Saag (Leafy Green Curry),Fruit Salad (Phalphul),maintenance
-Boiled Egg,Momo (Steamed Dumpling),Saag (Leafy Green Curry),Fruit Salad (Phalphul),weight_gain
-Bara (Black Lentil Pancake),Momo (Steamed Dumpling),Saag (Leafy Green Curry),Mixed Green Salad,weight_loss
-Roti (Wheat Flatbread),Chicken Curry,Dal Bhat,Popcorn,maintenance
-Cereal (Corn Flakes),Momo (Steamed Dumpling),Fish Curry (Macha Ko Jhol),Roasted Corn (Bilaune Makai),muscle_gain
-Milk Tea (Chiya),Thukpa (Noodle Soup),Roti (Wheat Flatbread),Apple (Syau),muscle_gain
-Scrambled Eggs,Thukpa (Noodle Soup),Curd Rice,Popcorn,maintenance
-Scrambled Eggs,Dal Bhat,Roti (Wheat Flatbread),Protein Bar,maintenance
-Oatmeal (Jaulo),Paneer Curry,Fish Curry (Macha Ko Jhol),Lapsi Candy (Hog Plum),muscle_gain
-Oatmeal (Jaulo),Momo (Steamed Dumpling),Dal Bhat,Yogurt (Dahi),muscle_gain
-Muesli,Chapati with Sabzi,Vegetable Soup,Popcorn,maintenance
-Granola,Khichdi,Buff Choila,Chatpate,maintenance
-Muesli,Thukpa (Noodle Soup),Vegetable Soup,Protein Bar,maintenance
-Bara (Black Lentil Pancake),Paneer Curry,Grilled Chicken Breast,Apple (Syau),maintenance
-Roti (Wheat Flatbread),Khichdi,Roti (Wheat Flatbread),Peanuts (Badaam),maintenance
-Oatmeal (Jaulo),Thukpa (Noodle Soup),Tofu Stir Fry,Chatpate,muscle_gain
-Scrambled Eggs,Paneer Curry,Grilled Chicken Breast,Lapsi Candy (Hog Plum),weight_loss
-Oatmeal (Jaulo),Gundruk,Fish Curry (Macha Ko Jhol),Sprouts Salad,weight_gain
-Chiura (Beaten Rice),Khichdi,Curd Rice,Popcorn,weight_gain
-Milk Tea (Chiya),Momo (Steamed Dumpling),Chicken Soup,Chatpate,weight_loss
-Roti (Wheat Flatbread),Aloo Tama (Potato Bamboo Curry),Dal Bhat,Chatpate,weight_gain
-Scrambled Eggs,Khichdi,Grilled Chicken Breast,Mixed Green Salad,weight_gain
-Roti (Wheat Flatbread),Paneer Curry,Tofu Stir Fry,Fruit Salad (Phalphul),weight_loss
-Sel Roti,Gundruk,Mutton Curry,Peanuts (Badaam),maintenance
-Chiura (Beaten Rice),Chapati with Sabzi,Dal Bhat,Popcorn,maintenance
-Oatmeal (Jaulo),Thukpa (Noodle Soup),Chicken Soup,Fruit Salad (Phalphul),weight_loss
-Cereal (Corn Flakes),Dal Bhat,Mutton Curry,Sprouts Salad,maintenance
-Oatmeal (Jaulo),Chapati with Sabzi,Brown Rice,Peanuts (Badaam),maintenance
-Chiura (Beaten Rice),Momo (Steamed Dumpling),Buff Choila,Banana (Kera),muscle_gain
-Roti (Wheat Flatbread),Gundruk,Chicken Soup,Banana (Kera),maintenance
-Chiura (Beaten Rice),Gundruk,Brown Rice,Roasted Corn (Bilaune Makai),weight_gain
-Roti (Wheat Flatbread),Dal Bhat,Brown Rice,Apple (Syau),maintenance
-Muesli,Dal Bhat,Tofu Stir Fry,Popcorn,maintenance
-Cereal (Corn Flakes),Thukpa (Noodle Soup),Roti (Wheat Flatbread),Yogurt (Dahi),muscle_gain
-Cereal (Corn Flakes),Masoor Dal,Mutton Curry,Peanuts (Badaam),weight_gain
-Idli,Masoor Dal,Fish Curry (Macha Ko Jhol),Protein Bar,maintenance
-Roti (Wheat Flatbread),Gundruk,Tofu Stir Fry,Mixed Green Salad,maintenance
-Poha (Flattened Rice),Aloo Tama (Potato Bamboo Curry),Buff Choila,Chatpate,weight_gain
-Idli,Paneer Curry,Chicken Soup,Mixed Green Salad,maintenance
-Sel Roti,Vegetable Biryani,Fish Curry (Macha Ko Jhol),Mixed Green Salad,maintenance
-Granola,Aloo Tama (Potato Bamboo Curry),Dal Bhat,Peanuts (Badaam),weight_gain
-Chiura (Beaten Rice),Chapati with Sabzi,Fish Curry (Macha Ko Jhol),Popcorn,maintenance
-Cereal (Corn Flakes),Chapati with Sabzi,Dal Bhat,Fruit Salad (Phalphul),muscle_gain
-Scrambled Eggs,Aloo Tama (Potato Bamboo Curry),Chicken Soup,Popcorn,weight_gain
-Granola,Mixed Vegetable Curry,Roti (Wheat Flatbread),Fruit Salad (Phalphul),weight_gain
-Milk Tea (Chiya),Vegetable Biryani,Curd Rice,Mixed Green Salad,muscle_gain
-Poha (Flattened Rice),Dal Bhat,Tofu Stir Fry,Yogurt (Dahi),weight_loss
-Poha (Flattened Rice),Thukpa (Noodle Soup),Fish Curry (Macha Ko Jhol),Apple (Syau),weight_gain
-Muesli,Aloo Tama (Potato Bamboo Curry),Buff Choila,Fruit Salad (Phalphul),weight_loss
-Scrambled Eggs,Chapati with Sabzi,Dal Bhat,Apple (Syau),maintenance
-Muesli,Mixed Vegetable Curry,Grilled Chicken Breast,Banana (Kera),muscle_gain
-Muesli,Momo (Steamed Dumpling),Vegetable Soup,Apple (Syau),weight_gain
-Muesli,Aloo Tama (Potato Bamboo Curry),Buff Choila,Mixed Green Salad,maintenance
-Scrambled Eggs,Aloo Tama (Potato Bamboo Curry),Roti (Wheat Flatbread),Banana (Kera),weight_loss
-Boiled Egg,Momo (Steamed Dumpling),Tofu Stir Fry,Protein Bar,weight_loss
-Granola,Aloo Tama (Potato Bamboo Curry),Chicken Soup,Apple (Syau),weight_loss
-Oatmeal (Jaulo),Khichdi,Buff Choila,Apple (Syau),weight_loss
-Poha (Flattened Rice),Thukpa (Noodle Soup),Curd Rice,Roasted Corn (Bilaune Makai),weight_loss
-Cereal (Corn Flakes),Khichdi,Dal Bhat,Chatpate,muscle_gain
-Boiled Egg,Momo (Steamed Dumpling),Brown Rice,Lapsi Candy (Hog Plum),weight_loss
-Sel Roti,Vegetable Biryani,Tofu Stir Fry,Apple (Syau),muscle_gain
-Granola,Mixed Vegetable Curry,Roti (Wheat Flatbread),Apple (Syau),weight_loss
-Milk Tea (Chiya),Masoor Dal,Brown Rice,Peanuts (Badaam),weight_gain
-Cereal (Corn Flakes),Masoor Dal,Chicken Soup,Banana (Kera),weight_loss
-Muesli,Thukpa (Noodle Soup),Tofu Stir Fry,Fruit Salad (Phalphul),weight_loss
-Poha (Flattened Rice),Momo (Steamed Dumpling),Chicken Soup,Banana (Kera),muscle_gain
-Granola,Thukpa (Noodle Soup),Roti (Wheat Flatbread),Fruit Salad (Phalphul),maintenance
-Scrambled Eggs,Vegetable Biryani,Saag (Leafy Green Curry),Yogurt (Dahi),maintenance
-Sel Roti,Dal Bhat,Chicken Soup,Popcorn,muscle_gain
-Idli,Dal Bhat,Vegetable Soup,Protein Bar,weight_loss
-Idli,Chicken Curry,Fish Curry (Macha Ko Jhol),Banana (Kera),muscle_gain
-Poha (Flattened Rice),Gundruk,Saag (Leafy Green Curry),Popcorn,weight_loss
-Granola,Mixed Vegetable Curry,Brown Rice,Protein Bar,maintenance
-Granola,Vegetable Biryani,Grilled Chicken Breast,Roasted Corn (Bilaune Makai),muscle_gain
-Oatmeal (Jaulo),Aloo Tama (Potato Bamboo Curry),Dal Bhat,Lapsi Candy (Hog Plum),weight_loss
-Boiled Egg,Momo (Steamed Dumpling),Curd Rice,Mixed Green Salad,weight_loss
-Chiura (Beaten Rice),Vegetable Biryani,Vegetable Soup,Apple (Syau),maintenance
-Sel Roti,Chicken Curry,Saag (Leafy Green Curry),Roasted Corn (Bilaune Makai),maintenance
-Muesli,Vegetable Biryani,Chicken Soup,Roasted Corn (Bilaune Makai),muscle_gain
-Cereal (Corn Flakes),Khichdi,Brown Rice,Chatpate,weight_loss
-Sel Roti,Chapati with Sabzi,Roti (Wheat Flatbread),Apple (Syau),weight_gain
-Chiura (Beaten Rice),Dal Bhat,Grilled Chicken Breast,Sprouts Salad,weight_loss
-Bara (Black Lentil Pancake),Khichdi,Brown Rice,Yogurt (Dahi),weight_gain
-Roti (Wheat Flatbread),Vegetable Biryani,Curd Rice,Popcorn,weight_gain
-Idli,Chapati with Sabzi,Brown Rice,Roasted Corn (Bilaune Makai),weight_loss
-Milk Tea (Chiya),Masoor Dal,Grilled Chicken Breast,Lapsi Candy (Hog Plum),weight_gain
-Granola,Chapati with Sabzi,Fish Curry (Macha Ko Jhol),Lapsi Candy (Hog Plum),muscle_gain
-Poha (Flattened Rice),Masoor Dal,Grilled Chicken Breast,Fruit Salad (Phalphul),muscle_gain
-Idli,Mixed Vegetable Curry,Dal Bhat,Fruit Salad (Phalphul),weight_gain
-Boiled Egg,Mixed Vegetable Curry,Vegetable Soup,Popcorn,weight_loss
-Cereal (Corn Flakes),Khichdi,Roti (Wheat Flatbread),Banana (Kera),maintenance
-Chiura (Beaten Rice),Aloo Tama (Potato Bamboo Curry),Brown Rice,Mixed Green Salad,muscle_gain
-Boiled Egg,Aloo Tama (Potato Bamboo Curry),Grilled Chicken Breast,Lapsi Candy (Hog Plum),muscle_gain
-Boiled Egg,Dal Bhat,Tofu Stir Fry,Lapsi Candy (Hog Plum),maintenance
-Bara (Black Lentil Pancake),Momo (Steamed Dumpling),Buff Choila,Chatpate,maintenance
-Boiled Egg,Chicken Curry,Saag (Leafy Green Curry),Protein Bar,weight_gain
-Sel Roti,Khichdi,Mutton Curry,Roasted Corn (Bilaune Makai),weight_gain
-Chiura (Beaten Rice),Paneer Curry,Mutton Curry,Apple (Syau),weight_gain
-Scrambled Eggs,Paneer Curry,Buff Choila,Apple (Syau),muscle_gain
-Boiled Egg,Thukpa (Noodle Soup),Grilled Chicken Breast,Mixed Green Salad,maintenance
-Roti (Wheat Flatbread),Aloo Tama (Potato Bamboo Curry),Mutton Curry,Chatpate,weight_loss
-Oatmeal (Jaulo),Thukpa (Noodle Soup),Curd Rice,Roasted Corn (Bilaune Makai),weight_loss
-Scrambled Eggs,Chapati with Sabzi,Curd Rice,Mixed Green Salad,muscle_gain
-Poha (Flattened Rice),Masoor Dal,Grilled Chicken Breast,Apple (Syau),weight_loss
-Oatmeal (Jaulo),Vegetable Biryani,Saag (Leafy Green Curry),Mixed Green Salad,muscle_gain
-Idli,Thukpa (Noodle Soup),Grilled Chicken Breast,Chatpate,weight_gain
-Idli,Vegetable Biryani,Curd Rice,Yogurt (Dahi),muscle_gain
-Granola,Paneer Curry,Buff Choila,Peanuts (Badaam),weight_gain
-Scrambled Eggs,Chicken Curry,Saag (Leafy Green Curry),Banana (Kera),maintenance
-Idli,Vegetable Biryani,Curd Rice,Lapsi Candy (Hog Plum),muscle_gain
-Oatmeal (Jaulo),Masoor Dal,Dal Bhat,Chatpate,maintenance
-Idli,Chicken Curry,Saag (Leafy Green Curry),Yogurt (Dahi),muscle_gain
-Sel Roti,Aloo Tama (Potato Bamboo Curry),Curd Rice,Banana (Kera),maintenance
-Milk Tea (Chiya),Vegetable Biryani,Vegetable Soup,Peanuts (Badaam),weight_loss
-Chiura (Beaten Rice),Chapati with Sabzi,Mutton Curry,Yogurt (Dahi),weight_loss
-Granola,Dal Bhat,Mutton Curry,Roasted Corn (Bilaune Makai),maintenance
-Poha (Flattened Rice),Vegetable Biryani,Buff Choila,Chatpate,weight_loss
-Granola,Masoor Dal,Tofu Stir Fry,Protein Bar,maintenance
-Bara (Black Lentil Pancake),Paneer Curry,Buff Choila,Fruit Salad (Phalphul),maintenance
-Roti (Wheat Flatbread),Gundruk,Brown Rice,Mixed Green Salad,weight_gain
-Oatmeal (Jaulo),Masoor Dal,Dal Bhat,Protein Bar,maintenance
-Bara (Black Lentil Pancake),Masoor Dal,Grilled Chicken Breast,Mixed Green Salad,muscle_gain
-Scrambled Eggs,Chicken Curry,Curd Rice,Yogurt (Dahi),weight_loss
-Muesli,Gundruk,Chicken Soup,Chatpate,weight_gain
-Granola,Paneer Curry,Vegetable Soup,Lapsi Candy (Hog Plum),maintenance
-Scrambled Eggs,Thukpa (Noodle Soup),Fish Curry (Macha Ko Jhol),Roasted Corn (Bilaune Makai),maintenance
-Chiura (Beaten Rice),Chicken Curry,Saag (Leafy Green Curry),Chatpate,muscle_gain
-Sel Roti,Chicken Curry,Grilled Chicken Breast,Peanuts (Badaam),maintenance
-Scrambled Eggs,Khichdi,Chicken Soup,Roasted Corn (Bilaune Makai),weight_gain
-Scrambled Eggs,Chicken Curry,Brown Rice,Apple (Syau),muscle_gain
-Chiura (Beaten Rice),Aloo Tama (Potato Bamboo Curry),Tofu Stir Fry,Peanuts (Badaam),maintenance
-Chiura (Beaten Rice),Masoor Dal,Saag (Leafy Green Curry),Sprouts Salad,maintenance
-Granola,Thukpa (Noodle Soup),Brown Rice,Apple (Syau),weight_loss
-Cereal (Corn Flakes),Gundruk,Fish Curry (Macha Ko Jhol),Chatpate,weight_gain
-Oatmeal (Jaulo),Thukpa (Noodle Soup),Saag (Leafy Green Curry),Mixed Green Salad,weight_loss
-Idli,Paneer Curry,Grilled Chicken Breast,Apple (Syau),weight_gain
-Chiura (Beaten Rice),Thukpa (Noodle Soup),Grilled Chicken Breast,Apple (Syau),weight_gain
-Oatmeal (Jaulo),Khichdi,Curd Rice,Yogurt (Dahi),maintenance
-Idli,Chapati with Sabzi,Curd Rice,Popcorn,maintenance
-Scrambled Eggs,Dal Bhat,Mutton Curry,Sprouts Salad,weight_loss
-Muesli,Dal Bhat,Vegetable Soup,Sprouts Salad,weight_gain
-Muesli,Mixed Vegetable Curry,Chicken Soup,Yogurt (Dahi),muscle_gain
-Muesli,Dal Bhat,Saag (Leafy Green Curry),Apple (Syau),muscle_gain
-Cereal (Corn Flakes),Khichdi,Roti (Wheat Flatbread),Yogurt (Dahi),maintenance
-Boiled Egg,Chicken Curry,Tofu Stir Fry,Mixed Green Salad,weight_gain
-Muesli,Masoor Dal,Tofu Stir Fry,Mixed Green Salad,weight_loss
-Scrambled Eggs,Dal Bhat,Tofu Stir Fry,Fruit Salad (Phalphul),maintenance
-Oatmeal (Jaulo),Vegetable Biryani,Roti (Wheat Flatbread),Roasted Corn (Bilaune Makai),weight_loss
-Bara (Black Lentil Pancake),Paneer Curry,Chicken Soup,Peanuts (Badaam),weight_gain
-Scrambled Eggs,Thukpa (Noodle Soup),Tofu Stir Fry,Peanuts (Badaam),weight_gain
-Idli,Mixed Vegetable Curry,Tofu Stir Fry,Roasted Corn (Bilaune Makai),muscle_gain
-Scrambled Eggs,Khichdi,Mutton Curry,Popcorn,muscle_gain
-Scrambled Eggs,Momo (Steamed Dumpling),Mutton Curry,Yogurt (Dahi),weight_gain
-Scrambled Eggs,Paneer Curry,Curd Rice,Popcorn,maintenance
-Milk Tea (Chiya),Aloo Tama (Potato Bamboo Curry),Tofu Stir Fry,Lapsi Candy (Hog Plum),maintenance
-Granola,Gundruk,Roti (Wheat Flatbread),Banana (Kera),weight_loss
-Scrambled Eggs,Khichdi,Mutton Curry,Mixed Green Salad,weight_loss
-Granola,Aloo Tama (Potato Bamboo Curry),Dal Bhat,Apple (Syau),muscle_gain
-Cereal (Corn Flakes),Vegetable Biryani,Vegetable Soup,Sprouts Salad,maintenance
-Sel Roti,Momo (Steamed Dumpling),Tofu Stir Fry,Fruit Salad (Phalphul),muscle_gain
-Chiura (Beaten Rice),Masoor Dal,Curd Rice,Popcorn,weight_loss
-Roti (Wheat Flatbread),Chicken Curry,Brown Rice,Fruit Salad (Phalphul),muscle_gain
-Chiura (Beaten Rice),Momo (Steamed Dumpling),Grilled Chicken Breast,Sprouts Salad,weight_gain
-Cereal (Corn Flakes),Paneer Curry,Buff Choila,Roasted Corn (Bilaune Makai),muscle_gain
-Oatmeal (Jaulo),Aloo Tama (Potato Bamboo Curry),Dal Bhat,Yogurt (Dahi),maintenance
-Chiura (Beaten Rice),Chicken Curry,Roti (Wheat Flatbread),Popcorn,weight_gain
-Roti (Wheat Flatbread),Dal Bhat,Fish Curry (Macha Ko Jhol),Yogurt (Dahi),weight_loss
-Sel Roti,Vegetable Biryani,Vegetable Soup,Mixed Green Salad,weight_gain
-Chiura (Beaten Rice),Masoor Dal,Vegetable Soup,Apple (Syau),weight_loss
-Oatmeal (Jaulo),Thukpa (Noodle Soup),Mutton Curry,Peanuts (Badaam),weight_gain
-Chiura (Beaten Rice),Thukpa (Noodle Soup),Vegetable Soup,Yogurt (Dahi),muscle_gain
-Sel Roti,Thukpa (Noodle Soup),Roti (Wheat Flatbread),Mixed Green Salad,maintenance
-Oatmeal (Jaulo),Gundruk,Vegetable Soup,Lapsi Candy (Hog Plum),weight_loss
-Oatmeal (Jaulo),Dal Bhat,Roti (Wheat Flatbread),Popcorn,weight_loss
-Scrambled Eggs,Chapati with Sabzi,Roti (Wheat Flatbread),Lapsi Candy (Hog Plum),weight_gain
-Muesli,Chicken Curry,Grilled Chicken Breast,Lapsi Candy (Hog Plum),maintenance
-Chiura (Beaten Rice),Aloo Tama (Potato Bamboo Curry),Saag (Leafy Green Curry),Popcorn,weight_loss
-Sel Roti,Dal Bhat,Brown Rice,Banana (Kera),weight_loss
-Cereal (Corn Flakes),Khichdi,Dal Bhat,Fruit Salad (Phalphul),weight_loss
-Milk Tea (Chiya),Gundruk,Chicken Soup,Fruit Salad (Phalphul),muscle_gain
-Milk Tea (Chiya),Dal Bhat,Buff Choila,Popcorn,weight_gain
-Roti (Wheat Flatbread),Chicken Curry,Dal Bhat,Banana (Kera),weight_gain
-Boiled Egg,Dal Bhat,Curd Rice,Protein Bar,muscle_gain
-Milk Tea (Chiya),Paneer Curry,Mutton Curry,Protein Bar,weight_loss
-Bara (Black Lentil Pancake),Aloo Tama (Potato Bamboo Curry),Mutton Curry,Chatpate,muscle_gain
-Chiura (Beaten Rice),Thukpa (Noodle Soup),Curd Rice,Yogurt (Dahi),weight_loss
-Sel Roti,Chapati with Sabzi,Roti (Wheat Flatbread),Peanuts (Badaam),maintenance
-Cereal (Corn Flakes),Khichdi,Chicken Soup,Fruit Salad (Phalphul),muscle_gain
-Bara (Black Lentil Pancake),Dal Bhat,Vegetable Soup,Banana (Kera),maintenance
-Scrambled Eggs,Paneer Curry,Vegetable Soup,Fruit Salad (Phalphul),weight_loss
-Bara (Black Lentil Pancake),Mixed Vegetable Curry,Grilled Chicken Breast,Peanuts (Badaam),weight_gain
-Roti (Wheat Flatbread),Aloo Tama (Potato Bamboo Curry),Dal Bhat,Apple (Syau),maintenance
-Poha (Flattened Rice),Dal Bhat,Buff Choila,Roasted Corn (Bilaune Makai),weight_gain
-Muesli,Aloo Tama (Potato Bamboo Curry),Vegetable Soup,Apple (Syau),weight_loss
-Milk Tea (Chiya),Chapati with Sabzi,Mutton Curry,Lapsi Candy (Hog Plum),maintenance
-Bara (Black Lentil Pancake),Thukpa (Noodle Soup),Mutton Curry,Banana (Kera),weight_loss
-Roti (Wheat Flatbread),Khichdi,Mutton Curry,Lapsi Candy (Hog Plum),muscle_gain
-Cereal (Corn Flakes),Chapati with Sabzi,Tofu Stir Fry,Peanuts (Badaam),weight_loss
-Oatmeal (Jaulo),Masoor Dal,Fish Curry (Macha Ko Jhol),Fruit Salad (Phalphul),weight_loss
-Sel Roti,Mixed Vegetable Curry,Chicken Soup,Popcorn,maintenance
-Oatmeal (Jaulo),Momo (Steamed Dumpling),Curd Rice,Roasted Corn (Bilaune Makai),muscle_gain
-Idli,Aloo Tama (Potato Bamboo Curry),Saag (Leafy Green Curry),Fruit Salad (Phalphul),maintenance
-Milk Tea (Chiya),Chapati with Sabzi,Dal Bhat,Peanuts (Badaam),muscle_gain
-Cereal (Corn Flakes),Khichdi,Saag (Leafy Green Curry),Chatpate,weight_gain
-Idli,Paneer Curry,Saag (Leafy Green Curry),Protein Bar,muscle_gain
-Milk Tea (Chiya),Paneer Curry,Fish Curry (Macha Ko Jhol),Banana (Kera),muscle_gain
-Oatmeal (Jaulo),Momo (Steamed Dumpling),Tofu Stir Fry,Fruit Salad (Phalphul),weight_gain
-Sel Roti,Aloo Tama (Potato Bamboo Curry),Grilled Chicken Breast,Peanuts (Badaam),weight_loss
-Milk Tea (Chiya),Chapati with Sabzi,Roti (Wheat Flatbread),Apple (Syau),weight_loss
-Milk Tea (Chiya),Paneer Curry,Dal Bhat,Apple (Syau),weight_loss
-Roti (Wheat Flatbread),Chapati with Sabzi,Dal Bhat,Popcorn,weight_loss
-Chiura (Beaten Rice),Paneer Curry,Brown Rice,Yogurt (Dahi),muscle_gain
-Roti (Wheat Flatbread),Vegetable Biryani,Saag (Leafy Green Curry),Chatpate,maintenance
-Poha (Flattened Rice),Thukpa (Noodle Soup),Roti (Wheat Flatbread),Sprouts Salad,weight_loss
-Muesli,Chicken Curry,Saag (Leafy Green Curry),Banana (Kera),weight_gain
-Bara (Black Lentil Pancake),Paneer Curry,Brown Rice,Banana (Kera),muscle_gain
-Boiled Egg,Thukpa (Noodle Soup),Tofu Stir Fry,Protein Bar,maintenance
-Scrambled Eggs,Chicken Curry,Dal Bhat,Yogurt (Dahi),maintenance
-Poha (Flattened Rice),Masoor Dal,Buff Choila,Fruit Salad (Phalphul),weight_loss
-Bara (Black Lentil Pancake),Thukpa (Noodle Soup),Saag (Leafy Green Curry),Chatpate,weight_loss
-Poha (Flattened Rice),Vegetable Biryani,Chicken Soup,Roasted Corn (Bilaune Makai),weight_gain
-Poha (Flattened Rice),Khichdi,Grilled Chicken Breast,Protein Bar,weight_loss
-Chiura (Beaten Rice),Mixed Vegetable Curry,Brown Rice,Popcorn,maintenance
-Boiled Egg,Aloo Tama (Potato Bamboo Curry),Roti (Wheat Flatbread),Roasted Corn (Bilaune Makai),muscle_gain
-Cereal (Corn Flakes),Chapati with Sabzi,Vegetable Soup,Peanuts (Badaam),muscle_gain
-Oatmeal (Jaulo),Chicken Curry,Saag (Leafy Green Curry),Apple (Syau),weight_loss
-Milk Tea (Chiya),Paneer Curry,Brown Rice,Chatpate,weight_loss
-Roti (Wheat Flatbread),Aloo Tama (Potato Bamboo Curry),Vegetable Soup,Sprouts Salad,muscle_gain
-Sel Roti,Vegetable Biryani,Curd Rice,Yogurt (Dahi),muscle_gain
-Bara (Black Lentil Pancake),Thukpa (Noodle Soup),Saag (Leafy Green Curry),Fruit Salad (Phalphul),muscle_gain
-Scrambled Eggs,Gundruk,Dal Bhat,Apple (Syau),weight_loss
-Poha (Flattened Rice),Chapati with Sabzi,Dal Bhat,Banana (Kera),weight_gain
-Poha (Flattened Rice),Paneer Curry,Chicken Soup,Banana (Kera),weight_loss
-Roti (Wheat Flatbread),Dal Bhat,Grilled Chicken Breast,Lapsi Candy (Hog Plum),muscle_gain
-Oatmeal (Jaulo),Vegetable Biryani,Fish Curry (Macha Ko Jhol),Fruit Salad (Phalphul),maintenance
-Oatmeal (Jaulo),Thukpa (Noodle Soup),Dal Bhat,Yogurt (Dahi),maintenance
-Boiled Egg,Chicken Curry,Vegetable Soup,Chatpate,weight_gain
-Muesli,Mixed Vegetable Curry,Roti (Wheat Flatbread),Lapsi Candy (Hog Plum),weight_gain
-Granola,Momo (Steamed Dumpling),Buff Choila,Sprouts Salad,muscle_gain
-Sel Roti,Masoor Dal,Dal Bhat,Apple (Syau),weight_gain
-Poha (Flattened Rice),Momo (Steamed Dumpling),Buff Choila,Chatpate,muscle_gain
-Muesli,Dal Bhat,Roti (Wheat Flatbread),Sprouts Salad,muscle_gain
-Roti (Wheat Flatbread),Gundruk,Dal Bhat,Chatpate,weight_gain
-Idli,Chicken Curry,Tofu Stir Fry,Fruit Salad (Phalphul),muscle_gain
-Bara (Black Lentil Pancake),Gundruk,Mutton Curry,Lapsi Candy (Hog Plum),maintenance
-Cereal (Corn Flakes),Mixed Vegetable Curry,Roti (Wheat Flatbread),Peanuts (Badaam),maintenance
-Scrambled Eggs,Gundruk,Chicken Soup,Banana (Kera),weight_gain
-Milk Tea (Chiya),Momo (Steamed Dumpling),Grilled Chicken Breast,Peanuts (Badaam),muscle_gain
-Poha (Flattened Rice),Thukpa (Noodle Soup),Fish Curry (Macha Ko Jhol),Protein Bar,maintenance
-Roti (Wheat Flatbread),Thukpa (Noodle Soup),Fish Curry (Macha Ko Jhol),Popcorn,maintenance
-Milk Tea (Chiya),Chicken Curry,Vegetable Soup,Peanuts (Badaam),muscle_gain
-Boiled Egg,Dal Bhat,Curd Rice,Banana (Kera),muscle_gain
-Muesli,Khichdi,Mutton Curry,Apple (Syau),weight_loss
-Boiled Egg,Vegetable Biryani,Dal Bhat,Apple (Syau),weight_gain
-Idli,Thukpa (Noodle Soup),Roti (Wheat Flatbread),Peanuts (Badaam),weight_gain
-Idli,Chapati with Sabzi,Saag (Leafy Green Curry),Chatpate,weight_gain
-Poha (Flattened Rice),Aloo Tama (Potato Bamboo Curry),Tofu Stir Fry,Banana (Kera),weight_loss
-Boiled Egg,Mixed Vegetable Curry,Vegetable Soup,Yogurt (Dahi),weight_gain
-Bara (Black Lentil Pancake),Chicken Curry,Saag (Leafy Green Curry),Protein Bar,weight_loss
-Boiled Egg,Gundruk,Roti (Wheat Flatbread),Mixed Green Salad,maintenance
-Cereal (Corn Flakes),Masoor Dal,Dal Bhat,Chatpate,weight_loss
-Idli,Aloo Tama (Potato Bamboo Curry),Brown Rice,Peanuts (Badaam),weight_gain
-Bara (Black Lentil Pancake),Dal Bhat,Chicken Soup,Popcorn,muscle_gain
-Oatmeal (Jaulo),Paneer Curry,Saag (Leafy Green Curry),Mixed Green Salad,weight_gain
-Scrambled Eggs,Dal Bhat,Mutton Curry,Mixed Green Salad,weight_gain
-Oatmeal (Jaulo),Momo (Steamed Dumpling),Curd Rice,Sprouts Salad,muscle_gain
-Roti (Wheat Flatbread),Thukpa (Noodle Soup),Brown Rice,Yogurt (Dahi),maintenance
-Cereal (Corn Flakes),Mixed Vegetable Curry,Roti (Wheat Flatbread),Protein Bar,weight_loss
-Boiled Egg,Dal Bhat,Buff Choila,Fruit Salad (Phalphul),weight_loss
-Oatmeal (Jaulo),Gundruk,Vegetable Soup,Popcorn,maintenance
-Scrambled Eggs,Khichdi,Vegetable Soup,Protein Bar,muscle_gain
-Oatmeal (Jaulo),Thukpa (Noodle Soup),Brown Rice,Fruit Salad (Phalphul),muscle_gain
-Bara (Black Lentil Pancake),Masoor Dal,Buff Choila,Sprouts Salad,muscle_gain
-Bara (Black Lentil Pancake),Masoor Dal,Saag (Leafy Green Curry),Roasted Corn (Bilaune Makai),maintenance
-Chiura (Beaten Rice),Paneer Curry,Saag (Leafy Green Curry),Chatpate,weight_gain
-Milk Tea (Chiya),Vegetable Biryani,Chicken Soup,Apple (Syau),muscle_gain
-Cereal (Corn Flakes),Vegetable Biryani,Brown Rice,Yogurt (Dahi),muscle_gain
-Sel Roti,Paneer Curry,Chicken Soup,Lapsi Candy (Hog Plum),maintenance
-Granola,Vegetable Biryani,Mutton Curry,Yogurt (Dahi),weight_gain
-Bara (Black Lentil Pancake),Vegetable Biryani,Dal Bhat,Lapsi Candy (Hog Plum),muscle_gain
-Cereal (Corn Flakes),Mixed Vegetable Curry,Dal Bhat,Chatpate,weight_loss
-Milk Tea (Chiya),Chapati with Sabzi,Saag (Leafy Green Curry),Fruit Salad (Phalphul),maintenance
-Chiura (Beaten Rice),Mixed Vegetable Curry,Mutton Curry,Roasted Corn (Bilaune Makai),muscle_gain
-Oatmeal (Jaulo),Vegetable Biryani,Chicken Soup,Mixed Green Salad,weight_gain
+Poha (Flattened Rice),Momo (Steamed Dumpling),Saag (Leafy Green Curry),Lapsi Candy (Hog Plum),weight_loss
+Bara (Black Lentil Pancake),Dal Bhat,Buff Choila,Sprouts Salad,muscle_gain
 Sel Roti,Gundruk,Tofu Stir Fry,Popcorn,weight_gain
 Scrambled Eggs,Paneer Curry,Tofu Stir Fry,Fruit Salad (Phalphul),maintenance
 Oatmeal (Jaulo),Chapati with Sabzi,Curd Rice,Banana (Kera),maintenance
@@ -399,3 +14,388 @@ Granola,Momo (Steamed Dumpling),Chicken Soup,Protein Bar,maintenance
 Milk Tea (Chiya),Momo (Steamed Dumpling),Roti (Wheat Flatbread),Fruit Salad (Phalphul),weight_gain
 Roti (Wheat Flatbread),Thukpa (Noodle Soup),Grilled Chicken Breast,Peanuts (Badaam),muscle_gain
 Bara (Black Lentil Pancake),Khichdi,Buff Choila,Mixed Green Salad,maintenance
+Scrambled Eggs,Aloo Tama (Potato Bamboo Curry),Curd Rice,Chatpate,maintenance
+Chiura (Beaten Rice),Khichdi,Vegetable Soup,Chatpate,muscle_gain
+Poha (Flattened Rice),Vegetable Biryani,Mutton Curry,Fruit Salad (Phalphul),maintenance
+Scrambled Eggs,Thukpa (Noodle Soup),Tofu Stir Fry,Mixed Green Salad,weight_loss
+Cereal (Corn Flakes),Chicken Curry,Chicken Soup,Sprouts Salad,muscle_gain
+Roti (Wheat Flatbread),Mixed Vegetable Curry,Curd Rice,Peanuts (Badaam),weight_gain
+Idli,Mixed Vegetable Curry,Tofu Stir Fry,Apple (Syau),weight_loss
+Bara (Black Lentil Pancake),Masoor Dal,Mutton Curry,Peanuts (Badaam),muscle_gain
+Poha (Flattened Rice),Masoor Dal,Saag (Leafy Green Curry),Chatpate,weight_loss
+Idli,Paneer Curry,Roti (Wheat Flatbread),Sprouts Salad,maintenance
+Milk Tea (Chiya),Dal Bhat,Tofu Stir Fry,Mixed Green Salad,muscle_gain
+Muesli,Khichdi,Roti (Wheat Flatbread),Mixed Green Salad,weight_loss
+Scrambled Eggs,Mixed Vegetable Curry,Grilled Chicken Breast,Roasted Corn (Bilaune Makai),weight_loss
+Milk Tea (Chiya),Paneer Curry,Grilled Chicken Breast,Mixed Green Salad,muscle_gain
+Milk Tea (Chiya),Momo (Steamed Dumpling),Buff Choila,Lapsi Candy (Hog Plum),weight_gain
+Granola,Thukpa (Noodle Soup),Dal Bhat,Mixed Green Salad,muscle_gain
+Bara (Black Lentil Pancake),Thukpa (Noodle Soup),Mutton Curry,Fruit Salad (Phalphul),maintenance
+Cereal (Corn Flakes),Aloo Tama (Potato Bamboo Curry),Curd Rice,Fruit Salad (Phalphul),muscle_gain
+Bara (Black Lentil Pancake),Vegetable Biryani,Grilled Chicken Breast,Yogurt (Dahi),weight_loss
+Idli,Paneer Curry,Dal Bhat,Roasted Corn (Bilaune Makai),weight_gain
+Oatmeal (Jaulo),Mixed Vegetable Curry,Mutton Curry,Peanuts (Badaam),muscle_gain
+Poha (Flattened Rice),Gundruk,Roti (Wheat Flatbread),Banana (Kera),weight_gain
+Milk Tea (Chiya),Khichdi,Buff Choila,Sprouts Salad,weight_loss
+Cereal (Corn Flakes),Chicken Curry,Curd Rice,Popcorn,muscle_gain
+Idli,Paneer Curry,Chicken Soup,Mixed Green Salad,weight_gain
+Bara (Black Lentil Pancake),Aloo Tama (Potato Bamboo Curry),Curd Rice,Popcorn,weight_loss
+Granola,Chicken Curry,Saag (Leafy Green Curry),Popcorn,weight_gain
+Idli,Momo (Steamed Dumpling),Vegetable Soup,Chatpate,weight_loss
+Muesli,Gundruk,Grilled Chicken Breast,Chatpate,weight_gain
+Oatmeal (Jaulo),Chicken Curry,Roti (Wheat Flatbread),Lapsi Candy (Hog Plum),weight_gain
+Roti (Wheat Flatbread),Momo (Steamed Dumpling),Chicken Soup,Peanuts (Badaam),maintenance
+Bara (Black Lentil Pancake),Masoor Dal,Fish Curry (Macha Ko Jhol),Fruit Salad (Phalphul),weight_gain
+Scrambled Eggs,Masoor Dal,Buff Choila,Sprouts Salad,maintenance
+Sel Roti,Masoor Dal,Buff Choila,Roasted Corn (Bilaune Makai),weight_loss
+Roti (Wheat Flatbread),Chicken Curry,Chicken Soup,Protein Bar,weight_loss
+Idli,Masoor Dal,Roti (Wheat Flatbread),Peanuts (Badaam),muscle_gain
+Granola,Dal Bhat,Mutton Curry,Apple (Syau),muscle_gain
+Milk Tea (Chiya),Vegetable Biryani,Tofu Stir Fry,Fruit Salad (Phalphul),weight_loss
+Idli,Masoor Dal,Saag (Leafy Green Curry),Lapsi Candy (Hog Plum),weight_gain
+Cereal (Corn Flakes),Mixed Vegetable Curry,Mutton Curry,Apple (Syau),maintenance
+Muesli,Gundruk,Mutton Curry,Peanuts (Badaam),muscle_gain
+Scrambled Eggs,Chicken Curry,Buff Choila,Banana (Kera),weight_gain
+Poha (Flattened Rice),Thukpa (Noodle Soup),Brown Rice,Chatpate,weight_loss
+Cereal (Corn Flakes),Chapati with Sabzi,Mutton Curry,Sprouts Salad,weight_gain
+Bara (Black Lentil Pancake),Chicken Curry,Dal Bhat,Popcorn,weight_gain
+Muesli,Khichdi,Tofu Stir Fry,Sprouts Salad,weight_gain
+Muesli,Momo (Steamed Dumpling),Vegetable Soup,Sprouts Salad,weight_loss
+Bara (Black Lentil Pancake),Dal Bhat,Curd Rice,Sprouts Salad,weight_gain
+Idli,Dal Bhat,Roti (Wheat Flatbread),Banana (Kera),maintenance
+Milk Tea (Chiya),Vegetable Biryani,Dal Bhat,Fruit Salad (Phalphul),muscle_gain
+Granola,Momo (Steamed Dumpling),Grilled Chicken Breast,Mixed Green Salad,muscle_gain
+Poha (Flattened Rice),Khichdi,Buff Choila,Fruit Salad (Phalphul),weight_loss
+Oatmeal (Jaulo),Masoor Dal,Mutton Curry,Sprouts Salad,weight_gain
+Poha (Flattened Rice),Masoor Dal,Buff Choila,Roasted Corn (Bilaune Makai),weight_gain
+Milk Tea (Chiya),Chicken Curry,Mutton Curry,Popcorn,muscle_gain
+Granola,Momo (Steamed Dumpling),Buff Choila,Lapsi Candy (Hog Plum),maintenance
+Scrambled Eggs,Vegetable Biryani,Buff Choila,Sprouts Salad,weight_gain
+Granola,Thukpa (Noodle Soup),Mutton Curry,Apple (Syau),weight_loss
+Muesli,Momo (Steamed Dumpling),Curd Rice,Lapsi Candy (Hog Plum),muscle_gain
+Idli,Gundruk,Brown Rice,Peanuts (Badaam),maintenance
+Boiled Egg,Vegetable Biryani,Fish Curry (Macha Ko Jhol),Fruit Salad (Phalphul),maintenance
+Cereal (Corn Flakes),Masoor Dal,Fish Curry (Macha Ko Jhol),Banana (Kera),maintenance
+Milk Tea (Chiya),Thukpa (Noodle Soup),Curd Rice,Lapsi Candy (Hog Plum),weight_gain
+Roti (Wheat Flatbread),Paneer Curry,Vegetable Soup,Sprouts Salad,weight_gain
+Idli,Khichdi,Vegetable Soup,Lapsi Candy (Hog Plum),weight_loss
+Roti (Wheat Flatbread),Vegetable Biryani,Buff Choila,Protein Bar,muscle_gain
+Idli,Chapati with Sabzi,Brown Rice,Yogurt (Dahi),maintenance
+Boiled Egg,Masoor Dal,Mutton Curry,Sprouts Salad,muscle_gain
+Idli,Mixed Vegetable Curry,Tofu Stir Fry,Protein Bar,weight_loss
+Roti (Wheat Flatbread),Khichdi,Fish Curry (Macha Ko Jhol),Mixed Green Salad,weight_gain
+Bara (Black Lentil Pancake),Gundruk,Chicken Soup,Peanuts (Badaam),weight_gain
+Sel Roti,Khichdi,Fish Curry (Macha Ko Jhol),Chatpate,muscle_gain
+Sel Roti,Chapati with Sabzi,Chicken Soup,Popcorn,weight_loss
+Sel Roti,Momo (Steamed Dumpling),Buff Choila,Mixed Green Salad,weight_loss
+Cereal (Corn Flakes),Chapati with Sabzi,Brown Rice,Mixed Green Salad,weight_gain
+Milk Tea (Chiya),Momo (Steamed Dumpling),Curd Rice,Peanuts (Badaam),weight_loss
+Roti (Wheat Flatbread),Paneer Curry,Chicken Soup,Lapsi Candy (Hog Plum),weight_gain
+Cereal (Corn Flakes),Khichdi,Dal Bhat,Lapsi Candy (Hog Plum),weight_gain
+Poha (Flattened Rice),Aloo Tama (Potato Bamboo Curry),Buff Choila,Roasted Corn (Bilaune Makai),weight_loss
+Muesli,Chicken Curry,Chicken Soup,Apple (Syau),weight_loss
+Idli,Paneer Curry,Chicken Soup,Chatpate,weight_loss
+Chiura (Beaten Rice),Dal Bhat,Tofu Stir Fry,Sprouts Salad,muscle_gain
+Cereal (Corn Flakes),Gundruk,Buff Choila,Peanuts (Badaam),weight_loss
+Granola,Paneer Curry,Tofu Stir Fry,Lapsi Candy (Hog Plum),maintenance
+Muesli,Momo (Steamed Dumpling),Mutton Curry,Yogurt (Dahi),weight_gain
+Oatmeal (Jaulo),Chicken Curry,Saag (Leafy Green Curry),Popcorn,muscle_gain
+Cereal (Corn Flakes),Khichdi,Grilled Chicken Breast,Chatpate,muscle_gain
+Chiura (Beaten Rice),Thukpa (Noodle Soup),Vegetable Soup,Popcorn,weight_loss
+Boiled Egg,Chapati with Sabzi,Buff Choila,Roasted Corn (Bilaune Makai),muscle_gain
+Bara (Black Lentil Pancake),Mixed Vegetable Curry,Grilled Chicken Breast,Mixed Green Salad,maintenance
+Oatmeal (Jaulo),Mixed Vegetable Curry,Saag (Leafy Green Curry),Popcorn,weight_loss
+Scrambled Eggs,Chapati with Sabzi,Chicken Soup,Peanuts (Badaam),weight_loss
+Boiled Egg,Vegetable Biryani,Mutton Curry,Mixed Green Salad,muscle_gain
+Chiura (Beaten Rice),Dal Bhat,Brown Rice,Sprouts Salad,muscle_gain
+Scrambled Eggs,Dal Bhat,Curd Rice,Sprouts Salad,weight_loss
+Chiura (Beaten Rice),Thukpa (Noodle Soup),Saag (Leafy Green Curry),Fruit Salad (Phalphul),maintenance
+Bara (Black Lentil Pancake),Momo (Steamed Dumpling),Buff Choila,Sprouts Salad,muscle_gain
+Oatmeal (Jaulo),Paneer Curry,Grilled Chicken Breast,Roasted Corn (Bilaune Makai),maintenance
+Granola,Chapati with Sabzi,Chicken Soup,Apple (Syau),muscle_gain
+Granola,Gundruk,Roti (Wheat Flatbread),Mixed Green Salad,maintenance
+Poha (Flattened Rice),Aloo Tama (Potato Bamboo Curry),Mutton Curry,Protein Bar,weight_loss
+Cereal (Corn Flakes),Vegetable Biryani,Vegetable Soup,Popcorn,maintenance
+Scrambled Eggs,Chapati with Sabzi,Fish Curry (Macha Ko Jhol),Sprouts Salad,muscle_gain
+Milk Tea (Chiya),Masoor Dal,Mutton Curry,Roasted Corn (Bilaune Makai),weight_loss
+Milk Tea (Chiya),Dal Bhat,Vegetable Soup,Lapsi Candy (Hog Plum),weight_gain
+Idli,Masoor Dal,Grilled Chicken Breast,Banana (Kera),weight_gain
+Cereal (Corn Flakes),Paneer Curry,Brown Rice,Sprouts Salad,muscle_gain
+Milk Tea (Chiya),Paneer Curry,Dal Bhat,Mixed Green Salad,maintenance
+Idli,Vegetable Biryani,Vegetable Soup,Mixed Green Salad,weight_loss
+Poha (Flattened Rice),Momo (Steamed Dumpling),Fish Curry (Macha Ko Jhol),Banana (Kera),weight_loss
+Bara (Black Lentil Pancake),Thukpa (Noodle Soup),Mutton Curry,Roasted Corn (Bilaune Makai),weight_loss
+Poha (Flattened Rice),Chapati with Sabzi,Roti (Wheat Flatbread),Yogurt (Dahi),maintenance
+Chiura (Beaten Rice),Gundruk,Mutton Curry,Popcorn,maintenance
+Sel Roti,Chicken Curry,Saag (Leafy Green Curry),Protein Bar,weight_loss
+Oatmeal (Jaulo),Gundruk,Saag (Leafy Green Curry),Protein Bar,weight_gain
+Poha (Flattened Rice),Aloo Tama (Potato Bamboo Curry),Roti (Wheat Flatbread),Banana (Kera),muscle_gain
+Chiura (Beaten Rice),Aloo Tama (Potato Bamboo Curry),Fish Curry (Macha Ko Jhol),Protein Bar,weight_gain
+Boiled Egg,Vegetable Biryani,Brown Rice,Apple (Syau),muscle_gain
+Oatmeal (Jaulo),Vegetable Biryani,Grilled Chicken Breast,Chatpate,weight_loss
+Milk Tea (Chiya),Masoor Dal,Buff Choila,Yogurt (Dahi),maintenance
+Oatmeal (Jaulo),Thukpa (Noodle Soup),Saag (Leafy Green Curry),Lapsi Candy (Hog Plum),weight_gain
+Boiled Egg,Vegetable Biryani,Tofu Stir Fry,Lapsi Candy (Hog Plum),maintenance
+Granola,Momo (Steamed Dumpling),Saag (Leafy Green Curry),Banana (Kera),maintenance
+Chiura (Beaten Rice),Dal Bhat,Fish Curry (Macha Ko Jhol),Fruit Salad (Phalphul),muscle_gain
+Milk Tea (Chiya),Vegetable Biryani,Buff Choila,Popcorn,weight_gain
+Roti (Wheat Flatbread),Gundruk,Vegetable Soup,Apple (Syau),maintenance
+Granola,Chicken Curry,Curd Rice,Yogurt (Dahi),weight_gain
+Cereal (Corn Flakes),Thukpa (Noodle Soup),Buff Choila,Lapsi Candy (Hog Plum),muscle_gain
+Chiura (Beaten Rice),Gundruk,Chicken Soup,Popcorn,maintenance
+Boiled Egg,Vegetable Biryani,Brown Rice,Fruit Salad (Phalphul),muscle_gain
+Oatmeal (Jaulo),Gundruk,Fish Curry (Macha Ko Jhol),Chatpate,weight_gain
+Muesli,Dal Bhat,Grilled Chicken Breast,Mixed Green Salad,muscle_gain
+Poha (Flattened Rice),Aloo Tama (Potato Bamboo Curry),Tofu Stir Fry,Protein Bar,muscle_gain
+Milk Tea (Chiya),Gundruk,Buff Choila,Sprouts Salad,weight_gain
+Chiura (Beaten Rice),Aloo Tama (Potato Bamboo Curry),Saag (Leafy Green Curry),Sprouts Salad,muscle_gain
+Roti (Wheat Flatbread),Khichdi,Tofu Stir Fry,Mixed Green Salad,maintenance
+Idli,Gundruk,Brown Rice,Sprouts Salad,maintenance
+Idli,Vegetable Biryani,Tofu Stir Fry,Sprouts Salad,weight_loss
+Cereal (Corn Flakes),Momo (Steamed Dumpling),Fish Curry (Macha Ko Jhol),Fruit Salad (Phalphul),weight_gain
+Boiled Egg,Gundruk,Dal Bhat,Protein Bar,weight_gain
+Cereal (Corn Flakes),Dal Bhat,Saag (Leafy Green Curry),Roasted Corn (Bilaune Makai),muscle_gain
+Poha (Flattened Rice),Vegetable Biryani,Fish Curry (Macha Ko Jhol),Yogurt (Dahi),muscle_gain
+Oatmeal (Jaulo),Vegetable Biryani,Grilled Chicken Breast,Chatpate,maintenance
+Poha (Flattened Rice),Chapati with Sabzi,Curd Rice,Yogurt (Dahi),muscle_gain
+Idli,Thukpa (Noodle Soup),Roti (Wheat Flatbread),Peanuts (Badaam),maintenance
+Poha (Flattened Rice),Vegetable Biryani,Saag (Leafy Green Curry),Yogurt (Dahi),muscle_gain
+Poha (Flattened Rice),Dal Bhat,Buff Choila,Chatpate,maintenance
+Cereal (Corn Flakes),Aloo Tama (Potato Bamboo Curry),Brown Rice,Fruit Salad (Phalphul),weight_loss
+Milk Tea (Chiya),Dal Bhat,Mutton Curry,Popcorn,muscle_gain
+Idli,Dal Bhat,Mutton Curry,Chatpate,weight_gain
+Idli,Gundruk,Brown Rice,Protein Bar,maintenance
+Muesli,Dal Bhat,Tofu Stir Fry,Banana (Kera),weight_loss
+Idli,Vegetable Biryani,Buff Choila,Popcorn,muscle_gain
+Granola,Vegetable Biryani,Vegetable Soup,Peanuts (Badaam),weight_loss
+Bara (Black Lentil Pancake),Gundruk,Saag (Leafy Green Curry),Banana (Kera),weight_loss
+Scrambled Eggs,Gundruk,Saag (Leafy Green Curry),Yogurt (Dahi),weight_gain
+Milk Tea (Chiya),Vegetable Biryani,Brown Rice,Popcorn,muscle_gain
+Scrambled Eggs,Mixed Vegetable Curry,Chicken Soup,Lapsi Candy (Hog Plum),muscle_gain
+Scrambled Eggs,Vegetable Biryani,Buff Choila,Fruit Salad (Phalphul),weight_loss
+Sel Roti,Thukpa (Noodle Soup),Chicken Soup,Protein Bar,maintenance
+Granola,Masoor Dal,Chicken Soup,Fruit Salad (Phalphul),maintenance
+Bara (Black Lentil Pancake),Aloo Tama (Potato Bamboo Curry),Tofu Stir Fry,Sprouts Salad,maintenance
+Scrambled Eggs,Masoor Dal,Roti (Wheat Flatbread),Lapsi Candy (Hog Plum),weight_gain
+Bara (Black Lentil Pancake),Chicken Curry,Curd Rice,Sprouts Salad,weight_loss
+Poha (Flattened Rice),Mixed Vegetable Curry,Brown Rice,Mixed Green Salad,weight_gain
+Poha (Flattened Rice),Dal Bhat,Brown Rice,Roasted Corn (Bilaune Makai),maintenance
+Milk Tea (Chiya),Chapati with Sabzi,Fish Curry (Macha Ko Jhol),Apple (Syau),maintenance
+Roti (Wheat Flatbread),Dal Bhat,Vegetable Soup,Lapsi Candy (Hog Plum),maintenance
+Poha (Flattened Rice),Khichdi,Mutton Curry,Roasted Corn (Bilaune Makai),maintenance
+Poha (Flattened Rice),Momo (Steamed Dumpling),Grilled Chicken Breast,Fruit Salad (Phalphul),muscle_gain
+Milk Tea (Chiya),Chicken Curry,Dal Bhat,Mixed Green Salad,maintenance
+Chiura (Beaten Rice),Paneer Curry,Grilled Chicken Breast,Mixed Green Salad,weight_loss
+Poha (Flattened Rice),Masoor Dal,Grilled Chicken Breast,Mixed Green Salad,weight_gain
+Oatmeal (Jaulo),Mixed Vegetable Curry,Brown Rice,Yogurt (Dahi),weight_loss
+Boiled Egg,Aloo Tama (Potato Bamboo Curry),Chicken Soup,Chatpate,weight_loss
+Poha (Flattened Rice),Mixed Vegetable Curry,Vegetable Soup,Sprouts Salad,weight_loss
+Cereal (Corn Flakes),Thukpa (Noodle Soup),Brown Rice,Peanuts (Badaam),maintenance
+Chiura (Beaten Rice),Gundruk,Grilled Chicken Breast,Lapsi Candy (Hog Plum),weight_loss
+Chiura (Beaten Rice),Chapati with Sabzi,Grilled Chicken Breast,Roasted Corn (Bilaune Makai),weight_gain
+Poha (Flattened Rice),Momo (Steamed Dumpling),Vegetable Soup,Banana (Kera),weight_loss
+Boiled Egg,Masoor Dal,Curd Rice,Roasted Corn (Bilaune Makai),maintenance
+Roti (Wheat Flatbread),Thukpa (Noodle Soup),Tofu Stir Fry,Sprouts Salad,weight_gain
+Muesli,Chicken Curry,Buff Choila,Popcorn,weight_loss
+Scrambled Eggs,Aloo Tama (Potato Bamboo Curry),Mutton Curry,Lapsi Candy (Hog Plum),weight_gain
+Milk Tea (Chiya),Gundruk,Fish Curry (Macha Ko Jhol),Yogurt (Dahi),muscle_gain
+Chiura (Beaten Rice),Masoor Dal,Fish Curry (Macha Ko Jhol),Roasted Corn (Bilaune Makai),weight_loss
+Roti (Wheat Flatbread),Thukpa (Noodle Soup),Chicken Soup,Fruit Salad (Phalphul),muscle_gain
+Granola,Mixed Vegetable Curry,Grilled Chicken Breast,Apple (Syau),maintenance
+Oatmeal (Jaulo),Paneer Curry,Chicken Soup,Roasted Corn (Bilaune Makai),muscle_gain
+Oatmeal (Jaulo),Aloo Tama (Potato Bamboo Curry),Roti (Wheat Flatbread),Mixed Green Salad,weight_loss
+Chiura (Beaten Rice),Mixed Vegetable Curry,Saag (Leafy Green Curry),Popcorn,muscle_gain
+Muesli,Chicken Curry,Saag (Leafy Green Curry),Sprouts Salad,weight_gain
+Sel Roti,Aloo Tama (Potato Bamboo Curry),Fish Curry (Macha Ko Jhol),Banana (Kera),muscle_gain
+Boiled Egg,Paneer Curry,Vegetable Soup,Roasted Corn (Bilaune Makai),maintenance
+Granola,Momo (Steamed Dumpling),Grilled Chicken Breast,Banana (Kera),maintenance
+Bara (Black Lentil Pancake),Masoor Dal,Fish Curry (Macha Ko Jhol),Protein Bar,weight_loss
+Roti (Wheat Flatbread),Mixed Vegetable Curry,Grilled Chicken Breast,Sprouts Salad,maintenance
+Poha (Flattened Rice),Mixed Vegetable Curry,Dal Bhat,Fruit Salad (Phalphul),muscle_gain
+Granola,Masoor Dal,Brown Rice,Fruit Salad (Phalphul),weight_gain
+Muesli,Aloo Tama (Potato Bamboo Curry),Vegetable Soup,Lapsi Candy (Hog Plum),muscle_gain
+Muesli,Khichdi,Grilled Chicken Breast,Chatpate,muscle_gain
+Sel Roti,Masoor Dal,Saag (Leafy Green Curry),Sprouts Salad,maintenance
+Roti (Wheat Flatbread),Paneer Curry,Tofu Stir Fry,Fruit Salad (Phalphul),weight_loss
+Scrambled Eggs,Masoor Dal,Fish Curry (Macha Ko Jhol),Protein Bar,weight_gain
+Scrambled Eggs,Chapati with Sabzi,Roti (Wheat Flatbread),Lapsi Candy (Hog Plum),maintenance
+Scrambled Eggs,Dal Bhat,Buff Choila,Banana (Kera),muscle_gain
+Cereal (Corn Flakes),Momo (Steamed Dumpling),Tofu Stir Fry,Protein Bar,muscle_gain
+Oatmeal (Jaulo),Chapati with Sabzi,Curd Rice,Mixed Green Salad,muscle_gain
+Muesli,Khichdi,Dal Bhat,Chatpate,weight_gain
+Scrambled Eggs,Khichdi,Chicken Soup,Protein Bar,muscle_gain
+Chiura (Beaten Rice),Chicken Curry,Dal Bhat,Sprouts Salad,muscle_gain
+Muesli,Mixed Vegetable Curry,Saag (Leafy Green Curry),Sprouts Salad,weight_loss
+Chiura (Beaten Rice),Gundruk,Curd Rice,Chatpate,weight_loss
+Bara (Black Lentil Pancake),Mixed Vegetable Curry,Buff Choila,Yogurt (Dahi),maintenance
+Bara (Black Lentil Pancake),Dal Bhat,Mutton Curry,Fruit Salad (Phalphul),muscle_gain
+Idli,Khichdi,Chicken Soup,Roasted Corn (Bilaune Makai),muscle_gain
+Scrambled Eggs,Gundruk,Fish Curry (Macha Ko Jhol),Roasted Corn (Bilaune Makai),weight_gain
+Idli,Dal Bhat,Curd Rice,Chatpate,weight_gain
+Muesli,Dal Bhat,Dal Bhat,Apple (Syau),muscle_gain
+Scrambled Eggs,Paneer Curry,Mutton Curry,Fruit Salad (Phalphul),weight_gain
+Oatmeal (Jaulo),Vegetable Biryani,Tofu Stir Fry,Popcorn,muscle_gain
+Oatmeal (Jaulo),Chapati with Sabzi,Saag (Leafy Green Curry),Lapsi Candy (Hog Plum),weight_gain
+Oatmeal (Jaulo),Aloo Tama (Potato Bamboo Curry),Fish Curry (Macha Ko Jhol),Banana (Kera),weight_loss
+Sel Roti,Paneer Curry,Brown Rice,Yogurt (Dahi),weight_gain
+Sel Roti,Dal Bhat,Vegetable Soup,Banana (Kera),maintenance
+Scrambled Eggs,Paneer Curry,Vegetable Soup,Protein Bar,muscle_gain
+Granola,Thukpa (Noodle Soup),Grilled Chicken Breast,Mixed Green Salad,muscle_gain
+Cereal (Corn Flakes),Vegetable Biryani,Vegetable Soup,Sprouts Salad,muscle_gain
+Granola,Vegetable Biryani,Tofu Stir Fry,Protein Bar,muscle_gain
+Scrambled Eggs,Aloo Tama (Potato Bamboo Curry),Brown Rice,Lapsi Candy (Hog Plum),weight_gain
+Bara (Black Lentil Pancake),Momo (Steamed Dumpling),Dal Bhat,Apple (Syau),muscle_gain
+Chiura (Beaten Rice),Masoor Dal,Tofu Stir Fry,Mixed Green Salad,muscle_gain
+Scrambled Eggs,Vegetable Biryani,Tofu Stir Fry,Popcorn,muscle_gain
+Scrambled Eggs,Masoor Dal,Dal Bhat,Banana (Kera),weight_gain
+Roti (Wheat Flatbread),Chicken Curry,Curd Rice,Mixed Green Salad,muscle_gain
+Cereal (Corn Flakes),Vegetable Biryani,Tofu Stir Fry,Lapsi Candy (Hog Plum),weight_gain
+Muesli,Momo (Steamed Dumpling),Tofu Stir Fry,Apple (Syau),weight_loss
+Boiled Egg,Mixed Vegetable Curry,Saag (Leafy Green Curry),Apple (Syau),maintenance
+Milk Tea (Chiya),Mixed Vegetable Curry,Curd Rice,Protein Bar,muscle_gain
+Roti (Wheat Flatbread),Khichdi,Vegetable Soup,Sprouts Salad,weight_loss
+Muesli,Chapati with Sabzi,Saag (Leafy Green Curry),Protein Bar,weight_gain
+Muesli,Vegetable Biryani,Dal Bhat,Lapsi Candy (Hog Plum),maintenance
+Roti (Wheat Flatbread),Momo (Steamed Dumpling),Tofu Stir Fry,Banana (Kera),weight_gain
+Boiled Egg,Masoor Dal,Buff Choila,Chatpate,maintenance
+Scrambled Eggs,Gundruk,Tofu Stir Fry,Peanuts (Badaam),weight_loss
+Oatmeal (Jaulo),Vegetable Biryani,Vegetable Soup,Banana (Kera),weight_gain
+Oatmeal (Jaulo),Khichdi,Chicken Soup,Apple (Syau),weight_gain
+Roti (Wheat Flatbread),Khichdi,Mutton Curry,Apple (Syau),weight_loss
+Muesli,Thukpa (Noodle Soup),Fish Curry (Macha Ko Jhol),Mixed Green Salad,weight_loss
+Roti (Wheat Flatbread),Vegetable Biryani,Mutton Curry,Apple (Syau),muscle_gain
+Oatmeal (Jaulo),Chicken Curry,Fish Curry (Macha Ko Jhol),Banana (Kera),weight_gain
+Scrambled Eggs,Khichdi,Dal Bhat,Banana (Kera),muscle_gain
+Bara (Black Lentil Pancake),Mixed Vegetable Curry,Roti (Wheat Flatbread),Apple (Syau),maintenance
+Chiura (Beaten Rice),Masoor Dal,Saag (Leafy Green Curry),Apple (Syau),maintenance
+Chiura (Beaten Rice),Momo (Steamed Dumpling),Grilled Chicken Breast,Peanuts (Badaam),weight_loss
+Scrambled Eggs,Thukpa (Noodle Soup),Buff Choila,Yogurt (Dahi),weight_gain
+Granola,Thukpa (Noodle Soup),Brown Rice,Banana (Kera),weight_loss
+Sel Roti,Thukpa (Noodle Soup),Roti (Wheat Flatbread),Banana (Kera),muscle_gain
+Milk Tea (Chiya),Mixed Vegetable Curry,Chicken Soup,Roasted Corn (Bilaune Makai),maintenance
+Chiura (Beaten Rice),Dal Bhat,Buff Choila,Protein Bar,maintenance
+Boiled Egg,Chicken Curry,Buff Choila,Chatpate,weight_gain
+Boiled Egg,Chicken Curry,Curd Rice,Protein Bar,maintenance
+Idli,Aloo Tama (Potato Bamboo Curry),Roti (Wheat Flatbread),Banana (Kera),weight_loss
+Oatmeal (Jaulo),Mixed Vegetable Curry,Dal Bhat,Fruit Salad (Phalphul),weight_gain
+Chiura (Beaten Rice),Mixed Vegetable Curry,Tofu Stir Fry,Lapsi Candy (Hog Plum),maintenance
+Chiura (Beaten Rice),Chapati with Sabzi,Grilled Chicken Breast,Apple (Syau),weight_gain
+Oatmeal (Jaulo),Vegetable Biryani,Fish Curry (Macha Ko Jhol),Fruit Salad (Phalphul),weight_loss
+Milk Tea (Chiya),Paneer Curry,Curd Rice,Roasted Corn (Bilaune Makai),maintenance
+Oatmeal (Jaulo),Masoor Dal,Chicken Soup,Peanuts (Badaam),weight_gain
+Sel Roti,Masoor Dal,Saag (Leafy Green Curry),Lapsi Candy (Hog Plum),muscle_gain
+Milk Tea (Chiya),Vegetable Biryani,Grilled Chicken Breast,Lapsi Candy (Hog Plum),weight_loss
+Poha (Flattened Rice),Thukpa (Noodle Soup),Curd Rice,Roasted Corn (Bilaune Makai),weight_gain
+Roti (Wheat Flatbread),Momo (Steamed Dumpling),Dal Bhat,Sprouts Salad,muscle_gain
+Scrambled Eggs,Thukpa (Noodle Soup),Dal Bhat,Sprouts Salad,weight_loss
+Muesli,Aloo Tama (Potato Bamboo Curry),Buff Choila,Popcorn,maintenance
+Chiura (Beaten Rice),Khichdi,Roti (Wheat Flatbread),Mixed Green Salad,weight_gain
+Oatmeal (Jaulo),Dal Bhat,Buff Choila,Yogurt (Dahi),weight_loss
+Idli,Mixed Vegetable Curry,Fish Curry (Macha Ko Jhol),Popcorn,weight_loss
+Granola,Momo (Steamed Dumpling),Saag (Leafy Green Curry),Fruit Salad (Phalphul),weight_loss
+Oatmeal (Jaulo),Paneer Curry,Vegetable Soup,Sprouts Salad,maintenance
+Roti (Wheat Flatbread),Mixed Vegetable Curry,Saag (Leafy Green Curry),Sprouts Salad,muscle_gain
+Idli,Mixed Vegetable Curry,Vegetable Soup,Popcorn,muscle_gain
+Roti (Wheat Flatbread),Gundruk,Dal Bhat,Lapsi Candy (Hog Plum),muscle_gain
+Milk Tea (Chiya),Mixed Vegetable Curry,Buff Choila,Protein Bar,weight_gain
+Muesli,Gundruk,Curd Rice,Roasted Corn (Bilaune Makai),muscle_gain
+Cereal (Corn Flakes),Momo (Steamed Dumpling),Dal Bhat,Apple (Syau),maintenance
+Granola,Vegetable Biryani,Tofu Stir Fry,Roasted Corn (Bilaune Makai),weight_gain
+Boiled Egg,Chicken Curry,Mutton Curry,Peanuts (Badaam),maintenance
+Poha (Flattened Rice),Chapati with Sabzi,Mutton Curry,Lapsi Candy (Hog Plum),weight_loss
+Bara (Black Lentil Pancake),Dal Bhat,Fish Curry (Macha Ko Jhol),Apple (Syau),muscle_gain
+Oatmeal (Jaulo),Vegetable Biryani,Dal Bhat,Peanuts (Badaam),weight_gain
+Sel Roti,Thukpa (Noodle Soup),Buff Choila,Chatpate,weight_loss
+Poha (Flattened Rice),Vegetable Biryani,Vegetable Soup,Lapsi Candy (Hog Plum),muscle_gain
+Scrambled Eggs,Khichdi,Curd Rice,Fruit Salad (Phalphul),maintenance
+Bara (Black Lentil Pancake),Masoor Dal,Grilled Chicken Breast,Chatpate,maintenance
+Chiura (Beaten Rice),Vegetable Biryani,Grilled Chicken Breast,Banana (Kera),weight_loss
+Oatmeal (Jaulo),Aloo Tama (Potato Bamboo Curry),Vegetable Soup,Mixed Green Salad,weight_gain
+Chiura (Beaten Rice),Vegetable Biryani,Grilled Chicken Breast,Sprouts Salad,weight_gain
+Muesli,Aloo Tama (Potato Bamboo Curry),Dal Bhat,Mixed Green Salad,weight_gain
+Scrambled Eggs,Paneer Curry,Fish Curry (Macha Ko Jhol),Mixed Green Salad,weight_loss
+Idli,Paneer Curry,Tofu Stir Fry,Protein Bar,weight_loss
+Granola,Momo (Steamed Dumpling),Roti (Wheat Flatbread),Yogurt (Dahi),maintenance
+Idli,Dal Bhat,Fish Curry (Macha Ko Jhol),Roasted Corn (Bilaune Makai),muscle_gain
+Oatmeal (Jaulo),Thukpa (Noodle Soup),Vegetable Soup,Banana (Kera),weight_gain
+Roti (Wheat Flatbread),Chicken Curry,Roti (Wheat Flatbread),Fruit Salad (Phalphul),maintenance
+Roti (Wheat Flatbread),Momo (Steamed Dumpling),Curd Rice,Sprouts Salad,weight_gain
+Oatmeal (Jaulo),Gundruk,Tofu Stir Fry,Fruit Salad (Phalphul),weight_loss
+Milk Tea (Chiya),Thukpa (Noodle Soup),Mutton Curry,Chatpate,maintenance
+Chiura (Beaten Rice),Chapati with Sabzi,Grilled Chicken Breast,Sprouts Salad,weight_gain
+Bara (Black Lentil Pancake),Mixed Vegetable Curry,Buff Choila,Fruit Salad (Phalphul),maintenance
+Oatmeal (Jaulo),Vegetable Biryani,Dal Bhat,Sprouts Salad,weight_loss
+Idli,Mixed Vegetable Curry,Chicken Soup,Roasted Corn (Bilaune Makai),maintenance
+Granola,Khichdi,Roti (Wheat Flatbread),Roasted Corn (Bilaune Makai),maintenance
+Bara (Black Lentil Pancake),Chapati with Sabzi,Brown Rice,Roasted Corn (Bilaune Makai),maintenance
+Idli,Gundruk,Vegetable Soup,Lapsi Candy (Hog Plum),maintenance
+Poha (Flattened Rice),Chicken Curry,Vegetable Soup,Yogurt (Dahi),maintenance
+Roti (Wheat Flatbread),Vegetable Biryani,Chicken Soup,Mixed Green Salad,muscle_gain
+Granola,Vegetable Biryani,Mutton Curry,Banana (Kera),maintenance
+Chiura (Beaten Rice),Thukpa (Noodle Soup),Saag (Leafy Green Curry),Sprouts Salad,muscle_gain
+Bara (Black Lentil Pancake),Paneer Curry,Grilled Chicken Breast,Banana (Kera),weight_loss
+Muesli,Vegetable Biryani,Curd Rice,Peanuts (Badaam),weight_gain
+Poha (Flattened Rice),Mixed Vegetable Curry,Curd Rice,Peanuts (Badaam),weight_loss
+Granola,Mixed Vegetable Curry,Dal Bhat,Banana (Kera),muscle_gain
+Scrambled Eggs,Mixed Vegetable Curry,Roti (Wheat Flatbread),Chatpate,maintenance
+Cereal (Corn Flakes),Gundruk,Chicken Soup,Protein Bar,weight_loss
+Sel Roti,Aloo Tama (Potato Bamboo Curry),Dal Bhat,Banana (Kera),weight_gain
+Roti (Wheat Flatbread),Vegetable Biryani,Grilled Chicken Breast,Chatpate,muscle_gain
+Chiura (Beaten Rice),Paneer Curry,Roti (Wheat Flatbread),Chatpate,maintenance
+Muesli,Mixed Vegetable Curry,Saag (Leafy Green Curry),Lapsi Candy (Hog Plum),muscle_gain
+Scrambled Eggs,Masoor Dal,Fish Curry (Macha Ko Jhol),Fruit Salad (Phalphul),weight_gain
+Sel Roti,Mixed Vegetable Curry,Brown Rice,Banana (Kera),maintenance
+Milk Tea (Chiya),Chicken Curry,Tofu Stir Fry,Protein Bar,weight_loss
+Boiled Egg,Paneer Curry,Curd Rice,Protein Bar,weight_loss
+Milk Tea (Chiya),Dal Bhat,Saag (Leafy Green Curry),Lapsi Candy (Hog Plum),maintenance
+Cereal (Corn Flakes),Masoor Dal,Dal Bhat,Chatpate,weight_loss
+Muesli,Masoor Dal,Mutton Curry,Roasted Corn (Bilaune Makai),weight_loss
+Poha (Flattened Rice),Gundruk,Mutton Curry,Sprouts Salad,weight_gain
+Boiled Egg,Thukpa (Noodle Soup),Tofu Stir Fry,Peanuts (Badaam),weight_gain
+Roti (Wheat Flatbread),Gundruk,Saag (Leafy Green Curry),Lapsi Candy (Hog Plum),maintenance
+Roti (Wheat Flatbread),Chicken Curry,Fish Curry (Macha Ko Jhol),Protein Bar,muscle_gain
+Chiura (Beaten Rice),Paneer Curry,Chicken Soup,Popcorn,muscle_gain
+Sel Roti,Momo (Steamed Dumpling),Tofu Stir Fry,Popcorn,maintenance
+Bara (Black Lentil Pancake),Dal Bhat,Brown Rice,Sprouts Salad,muscle_gain
+Roti (Wheat Flatbread),Khichdi,Grilled Chicken Breast,Apple (Syau),muscle_gain
+Sel Roti,Thukpa (Noodle Soup),Tofu Stir Fry,Lapsi Candy (Hog Plum),weight_gain
+Idli,Vegetable Biryani,Dal Bhat,Apple (Syau),muscle_gain
+Cereal (Corn Flakes),Chapati with Sabzi,Roti (Wheat Flatbread),Sprouts Salad,weight_gain
+Idli,Paneer Curry,Brown Rice,Peanuts (Badaam),weight_gain
+Boiled Egg,Khichdi,Tofu Stir Fry,Yogurt (Dahi),muscle_gain
+Sel Roti,Vegetable Biryani,Buff Choila,Lapsi Candy (Hog Plum),maintenance
+Chiura (Beaten Rice),Chicken Curry,Vegetable Soup,Mixed Green Salad,weight_gain
+Sel Roti,Mixed Vegetable Curry,Tofu Stir Fry,Popcorn,weight_loss
+Milk Tea (Chiya),Aloo Tama (Potato Bamboo Curry),Fish Curry (Macha Ko Jhol),Peanuts (Badaam),maintenance
+Scrambled Eggs,Momo (Steamed Dumpling),Brown Rice,Popcorn,muscle_gain
+Poha (Flattened Rice),Vegetable Biryani,Chicken Soup,Chatpate,muscle_gain
+Scrambled Eggs,Chicken Curry,Fish Curry (Macha Ko Jhol),Sprouts Salad,weight_gain
+Idli,Chapati with Sabzi,Roti (Wheat Flatbread),Sprouts Salad,maintenance
+Chiura (Beaten Rice),Vegetable Biryani,Vegetable Soup,Fruit Salad (Phalphul),weight_gain
+Chiura (Beaten Rice),Aloo Tama (Potato Bamboo Curry),Vegetable Soup,Protein Bar,maintenance
+Muesli,Masoor Dal,Fish Curry (Macha Ko Jhol),Chatpate,weight_gain
+Muesli,Vegetable Biryani,Dal Bhat,Protein Bar,muscle_gain
+Oatmeal (Jaulo),Mixed Vegetable Curry,Dal Bhat,Chatpate,muscle_gain
+Poha (Flattened Rice),Mixed Vegetable Curry,Vegetable Soup,Protein Bar,maintenance
+Roti (Wheat Flatbread),Thukpa (Noodle Soup),Chicken Soup,Roasted Corn (Bilaune Makai),weight_loss
+Idli,Khichdi,Roti (Wheat Flatbread),Lapsi Candy (Hog Plum),maintenance
+Chiura (Beaten Rice),Chicken Curry,Buff Choila,Sprouts Salad,weight_gain
+Roti (Wheat Flatbread),Masoor Dal,Mutton Curry,Lapsi Candy (Hog Plum),weight_loss
+Cereal (Corn Flakes),Khichdi,Tofu Stir Fry,Yogurt (Dahi),muscle_gain
+Poha (Flattened Rice),Chapati with Sabzi,Grilled Chicken Breast,Roasted Corn (Bilaune Makai),weight_gain
+Milk Tea (Chiya),Dal Bhat,Saag (Leafy Green Curry),Lapsi Candy (Hog Plum),weight_loss
+Scrambled Eggs,Aloo Tama (Potato Bamboo Curry),Fish Curry (Macha Ko Jhol),Fruit Salad (Phalphul),muscle_gain
+Milk Tea (Chiya),Paneer Curry,Vegetable Soup,Roasted Corn (Bilaune Makai),maintenance
+Chiura (Beaten Rice),Khichdi,Roti (Wheat Flatbread),Fruit Salad (Phalphul),maintenance
+Oatmeal (Jaulo),Mixed Vegetable Curry,Roti (Wheat Flatbread),Roasted Corn (Bilaune Makai),weight_loss
+Bara (Black Lentil Pancake),Gundruk,Saag (Leafy Green Curry),Banana (Kera),maintenance
+Muesli,Chicken Curry,Brown Rice,Mixed Green Salad,weight_loss
+Scrambled Eggs,Chapati with Sabzi,Tofu Stir Fry,Roasted Corn (Bilaune Makai),weight_gain
+Idli,Paneer Curry,Dal Bhat,Banana (Kera),muscle_gain
+Sel Roti,Vegetable Biryani,Buff Choila,Fruit Salad (Phalphul),weight_loss
+Roti (Wheat Flatbread),Vegetable Biryani,Curd Rice,Fruit Salad (Phalphul),weight_gain
+Milk Tea (Chiya),Mixed Vegetable Curry,Tofu Stir Fry,Chatpate,muscle_gain
+Cereal (Corn Flakes),Dal Bhat,Brown Rice,Fruit Salad (Phalphul),weight_gain
+Poha (Flattened Rice),Khichdi,Buff Choila,Apple (Syau),maintenance
+Oatmeal (Jaulo),Masoor Dal,Dal Bhat,Banana (Kera),muscle_gain
+Oatmeal (Jaulo),Masoor Dal,Brown Rice,Protein Bar,weight_gain

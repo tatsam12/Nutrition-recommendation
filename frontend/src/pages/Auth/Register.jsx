@@ -6,6 +6,7 @@ import { MdPerson, MdEmail, MdLock, MdVisibility, MdVisibilityOff } from 'react-
 
 export default function Register() {
   const { register } = useAuth()
+  const [passwordError, setPasswordError] = useState("");
   const navigate     = useNavigate()
   const [form, setForm]       = useState({ full_name: '', email: '', password: '', confirm: '' })
   const [showPw, setShowPw]   = useState(false)
